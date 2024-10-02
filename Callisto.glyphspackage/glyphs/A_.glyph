@@ -1,0 +1,350 @@
+{
+glyphname = A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (384,0);
+},
+{
+name = ogonek;
+pos = (760,-1);
+},
+{
+name = top;
+pos = (384,760);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,765,l),
+(349,690,l),
+(614,0,l,{
+name = _corner04;
+}),
+(724,0,l,{
+name = _corner05;
+}),
+(406,800,l,{
+name = _corner06;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(409,770,l),
+(349,760,l),
+(34,0,l,{
+name = _corner07;
+}),
+(119,0,l,{
+name = _corner08;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(184,265,l),
+(574,265,l),
+(574,320,l),
+(184,320,l)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,3);
+scale = (0.9,-1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,4);
+scale = (0.7,1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,5);
+scale = (0.6,-1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,2);
+scale = (0.6,1.1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,6);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(359,760,l),
+(319,735,l),
+(329,700,l),
+(349,680,l),
+(614,0,l),
+(724,0,l),
+(402,800,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(409,760,l),
+(349,750,l),
+(34,0,l),
+(119,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,265,l),
+(574,265,l),
+(574,320,l),
+(184,320,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.9, -1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.6, -1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.6, 1.1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+type = Corner;
+}
+);
+};
+width = 759;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (375,0);
+},
+{
+name = ogonek;
+pos = (675,10);
+},
+{
+name = top;
+pos = (375,760);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,760,l),
+(310,735,l,{
+name = _corner09;
+}),
+(320,700,l),
+(340,680,l),
+(605,0,l,{
+name = _corner10;
+}),
+(715,0,l,{
+name = _corner11;
+}),
+(393,800,l,{
+name = _corner12;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(400,760,l),
+(340,750,l),
+(25,0,l,{
+name = _corner13;
+}),
+(110,0,l,{
+name = _corner14;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(175,265,l),
+(565,265,l),
+(565,320,l),
+(175,320,l)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,3);
+scale = (0.9,-1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,4);
+scale = (0.7,1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,5);
+scale = (0.6,-1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,2);
+scale = (0.6,1.1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,6);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,760,l),
+(252,684,l),
+(293,605,l),
+(306,599,l),
+(545,0,l),
+(715,0,l),
+(393,800,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(400,700,l),
+(330,740,l),
+(25,0,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(165,195,l),
+(555,195,l),
+(555,270,l),
+(165,270,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.9, -1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.6, -1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.6, 1.1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+type = Corner;
+}
+);
+};
+width = 750;
+}
+);
+unicode = 65;
+}

@@ -1,0 +1,118 @@
+{
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (211,500);
+},
+{
+name = top;
+pos = (211,700);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+scale = (-1,-1);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+scale = (-1,-1);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(361,700,l),
+(61,700,l),
+(61,630,l),
+(211,635,l),
+(361,630,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+scale = "{-1, -1}";
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+scale = "{-1, -1}";
+type = Segment;
+}
+);
+};
+width = 422;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (231,500);
+},
+{
+name = top;
+pos = (231,710);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+scale = (-1,-1);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+scale = (-1,-1);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(401,710,l),
+(61,710,l),
+(61,620,l),
+(231,625,l),
+(401,620,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+scale = "{-1, -1}";
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+scale = "{-1, -1}";
+type = Segment;
+}
+);
+};
+width = 462;
+}
+);
+unicode = 772;
+}

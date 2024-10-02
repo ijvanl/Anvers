@@ -1,0 +1,32 @@
+{
+glyphname = edotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (165,0);
+ref = dotaccentcomb;
+}
+);
+width = 532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (131,0);
+ref = dotaccentcomb;
+}
+);
+width = 532;
+}
+);
+unicode = 279;
+}

@@ -1,0 +1,198 @@
+{
+glyphname = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (175,0);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (1,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (1,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,640,o),
+(227,676,o),
+(227,700,c),
+(212,734,o),
+(175,755,o),
+(152,755,c),
+(119,740,o),
+(97,704,o),
+(97,680,c),
+(112,646,o),
+(149,625,o),
+(172,625,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(212,0,l),
+(212,515,l),
+(182,503,o),
+(158,492,o),
+(127,480,c),
+(127,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 335;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (176,0);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (1,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (1,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,635,o),
+(243,682,o),
+(243,713,c),
+(223,758,o),
+(175,785,o),
+(145,785,c),
+(101,765,o),
+(73,718,o),
+(73,687,c),
+(93,642,o),
+(141,615,o),
+(171,615,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,0,l),
+(233,515,l),
+(203,503,o),
+(139,482,o),
+(108,470,c),
+(108,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 351;
+}
+);
+unicode = 105;
+}

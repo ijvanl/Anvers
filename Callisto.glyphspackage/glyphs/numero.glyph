@@ -1,0 +1,115 @@
+{
+glyphname = numero;
+layers = (
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = -1;
+pos = (750,150);
+ref = zero.osf;
+},
+{
+closed = 1;
+nodes = (
+(847,0,l,{
+name = _corner00;
+}),
+(1307,0,l),
+(1307,80,l,{
+name = _corner01;
+}),
+(1067,60,l),
+(847,80,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 1372;
+},
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = -1;
+pos = (750,254);
+ref = zero.osf;
+},
+{
+closed = 1;
+nodes = (
+(847,64,l,{
+name = _corner00;
+}),
+(1287,64,l),
+(1287,184,l,{
+name = _corner01;
+}),
+(1057,164,l),
+(847,184,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 1372;
+}
+);
+metricRight = "=zero";
+unicode = 8470;
+}

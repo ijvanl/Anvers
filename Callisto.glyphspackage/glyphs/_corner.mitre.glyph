@@ -1,0 +1,32 @@
+{
+export = 0;
+glyphname = _corner.mitre;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,0,l),
+(0,10,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 0;
+nodes = (
+(20,0,l),
+(0,20,l)
+);
+}
+);
+width = 600;
+}
+);
+}

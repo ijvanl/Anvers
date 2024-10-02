@@ -1,0 +1,24 @@
+{
+glyphname = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.osf;
+}
+);
+width = 403;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = one.osf;
+}
+);
+width = 398;
+}
+);
+unicode = 49;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = Ugrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (338,260);
+ref = gravecomb;
+}
+);
+width = 896;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (280,260);
+ref = gravecomb;
+}
+);
+width = 866;
+}
+);
+metricLeft = "+10";
+unicode = 217;
+}

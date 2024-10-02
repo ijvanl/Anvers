@@ -1,0 +1,165 @@
+{
+glyphname = one.lf;
+layers = (
+{
+hints = (
+{
+name = _corner.serif;
+origin = (0,0);
+scale = (1,1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (1,-1.1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(158,0,l),
+(258,0,l),
+(258,770,l),
+(174,741,ls),
+(150,733,o),
+(116,722,o),
+(59,706,cs),
+(46,702,o),
+(49,675,o),
+(60,674,cs),
+(157,662,o),
+(158,667,o),
+(158,596,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+origin = _corner00;
+scale = "{1, 1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner01;
+scale = "{1, -1.1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner02;
+type = Corner;
+}
+);
+};
+width = 412;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l,{
+name = _corner00;
+}),
+(256,0,l,{
+name = _corner01;
+}),
+(256,770,l,{
+name = _corner02;
+}),
+(172,741,ls),
+(148,733,o),
+(114,722,o),
+(57,706,cs),
+(44,702,o),
+(47,675,o),
+(58,674,cs),
+(155,662,o),
+(156,667,o),
+(156,596,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+origin = (0,0);
+scale = (1,1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (1,-1.1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(156,0,l),
+(306,0,l),
+(306,780,l),
+(164,723,ls),
+(141,714,o),
+(122,708,o),
+(57,682,cs),
+(45,677,o),
+(51,632,o),
+(63,631,cs),
+(150,625,o),
+(156,627,o),
+(156,555,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+origin = _corner00;
+scale = "{1, 1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner01;
+scale = "{1, -1.1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner02;
+type = Corner;
+}
+);
+};
+width = 454;
+}
+);
+}

@@ -1,0 +1,28 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (320,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 320;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (320,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 320;
+}
+);
+unicode = 8250;
+}

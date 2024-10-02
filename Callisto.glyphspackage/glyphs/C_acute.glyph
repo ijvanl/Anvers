@@ -1,0 +1,33 @@
+{
+glyphname = Cacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (310,260);
+ref = acutecomb;
+}
+);
+width = 792;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (277,260);
+ref = acutecomb;
+}
+);
+width = 782;
+}
+);
+metricLeft = "+10";
+unicode = 262;
+}

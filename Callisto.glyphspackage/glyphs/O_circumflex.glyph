@@ -1,0 +1,33 @@
+{
+glyphname = Ocircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (257,250);
+ref = circumflexcomb;
+}
+);
+width = 900;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (207,260);
+ref = circumflexcomb;
+}
+);
+width = 880;
+}
+);
+metricLeft = "+10";
+unicode = 212;
+}

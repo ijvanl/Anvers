@@ -1,0 +1,499 @@
+{
+glyphname = m;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (490,0);
+},
+{
+name = top;
+pos = (490,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,0,l,{
+name = _corner08;
+}),
+(212,515,l,{
+name = _corner09;
+}),
+(182,505,o),
+(162,500,o),
+(122,490,c,{
+name = _corner10;
+}),
+(122,0,l,{
+name = _corner11;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(542,0,l,{
+name = _corner12;
+}),
+(542,330,ls),
+(542,414,o),
+(497,511,o),
+(384,511,cs),
+(339,511,o),
+(248,489,o),
+(162,341,c),
+(205,300,l),
+(220,392,o),
+(278,434,o),
+(338,434,cs),
+(406,434,o),
+(452,396,o),
+(452,300,cs),
+(452,0,l,{
+name = _corner13;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(872,0,l,{
+name = _corner14;
+}),
+(872,330,ls),
+(872,414,o),
+(827,511,o),
+(714,511,cs),
+(669,511,o),
+(578,489,o),
+(492,341,c),
+(535,300,l),
+(550,392,o),
+(608,434,o),
+(668,434,cs),
+(736,434,o),
+(782,396,o),
+(782,300,cs),
+(782,0,l,{
+name = _corner15;
+})
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,12);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (2,0);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (2,12);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,0,l),
+(212,515,l),
+(182,503,o),
+(158,492,o),
+(127,480,c),
+(127,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(537,0,l),
+(537,340,ls),
+(537,424,o),
+(497,511,o),
+(394,511,cs),
+(319,511,o),
+(248,459,o),
+(162,381,c),
+(186,360,l),
+(359,493,o),
+(452,426,o),
+(452,300,cs),
+(452,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(857,0,l),
+(867,340,ls),
+(869,424,o),
+(822,511,o),
+(719,511,cs),
+(644,511,o),
+(573,459,o),
+(487,381,c),
+(511,360,l),
+(684,493,o),
+(777,426,o),
+(777,300,cs),
+(777,0,l)
+);
+}
+);
+userData = {
+com.GeorgSeifert.ImageExportSettings = {
+path = "../../../Downloads";
+presets = (
+{
+filename = "{{{glyph.name}}}";
+format = SVG;
+name = default;
+size = 1050;
+}
+);
+};
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner06;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner07;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 966;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (487,0);
+},
+{
+name = top;
+pos = (487,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(568,0,l,{
+name = _corner16;
+}),
+(568,340,ls),
+(568,424,o),
+(528,511,o),
+(425,511,cs),
+(350,511,o),
+(279,459,o),
+(193,381,c),
+(217,360,l),
+(390,493,o),
+(483,426,o),
+(483,300,cs),
+(483,0,l,{
+name = _corner17;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(888,0,l,{
+name = _corner18;
+}),
+(898,340,ls),
+(900,424,o),
+(853,511,o),
+(750,511,cs),
+(675,511,o),
+(604,459,o),
+(518,381,c),
+(542,360,l),
+(715,493,o),
+(808,426,o),
+(808,300,cs),
+(808,0,l,{
+name = _corner19;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(243,0,l,{
+name = _corner20;
+}),
+(243,515,l,{
+name = _corner21;
+}),
+(213,503,o),
+(189,492,o),
+(158,480,c,{
+name = _corner22;
+}),
+(158,0,l,{
+name = _corner23;
+})
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (1,12);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (2,0);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (2,12);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,0,l),
+(233,515,l),
+(203,503,o),
+(139,482,o),
+(108,470,c),
+(108,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(558,0,l),
+(558,320,ls),
+(558,435,o),
+(497,510,o),
+(408,510,cs),
+(337,510,o),
+(253,461,o),
+(183,341,c),
+(207,320,l),
+(281,440,o),
+(433,416,o),
+(433,270,cs),
+(433,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(868,0,l),
+(878,320,ls),
+(882,442,o),
+(808,508,o),
+(718,508,cs),
+(642,508,o),
+(555,461,o),
+(493,361,c),
+(527,310,l),
+(600,439,o),
+(753,418,o),
+(753,270,cs),
+(753,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner06;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner07;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 973;
+}
+);
+unicode = 109;
+}

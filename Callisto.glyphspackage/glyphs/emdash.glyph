@@ -1,0 +1,88 @@
+{
+glyphname = emdash;
+layers = (
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,230,l),
+(780,230,l),
+(780,290,l),
+(91,290,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 871;
+},
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,220,l),
+(780,220,l),
+(780,300,l),
+(91,300,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 871;
+}
+);
+unicode = 8212;
+}

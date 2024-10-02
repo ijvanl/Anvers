@@ -1,0 +1,213 @@
+{
+glyphname = oe;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (458,0);
+},
+{
+name = top;
+pos = (458,500);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (2,6);
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = (2,15);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(403,-10,o),
+(532,112,o),
+(532,268,cs),
+(532,403,o),
+(442,510,o),
+(309,510,cs),
+(175,510,o),
+(50,384,o),
+(50,232,cs),
+(50,97,o),
+(140,-10,o),
+(273,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(208,60,o),
+(145,135,o),
+(145,279,cs),
+(145,374,o),
+(185,440,o),
+(271,440,cs),
+(374,440,o),
+(437,365,o),
+(437,221,cs),
+(437,126,o),
+(397,60,o),
+(311,60,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(443,77,o),
+(538,-10,o),
+(661,-10,cs),
+(716,-10,o),
+(782,12,o),
+(858,70,c),
+(837,110,l),
+(660,9,o),
+(532,91,o),
+(532,283,cs),
+(532,501,o),
+(753,483,o),
+(753,325,c),
+(523,318,l),
+(526,273,l),
+(859,273,l),
+(859,444,o),
+(777,510,o),
+(673,511,cs),
+(566,512,o),
+(443,404,o),
+(443,232,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+}
+);
+};
+width = 915;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (446,0);
+},
+{
+name = top;
+pos = (446,500);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (2,6);
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = (2,15);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(456,-10,o),
+(524,128,o),
+(524,262,cs),
+(524,388,o),
+(447,510,o),
+(315,510,cs),
+(138,510,o),
+(50,372,o),
+(50,238,cs),
+(50,112,o),
+(137,-10,o),
+(279,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(237,58,o),
+(191,159,o),
+(191,281,cs),
+(191,382,o),
+(220,430,o),
+(277,435,cs),
+(358,442,o),
+(403,341,o),
+(403,219,cs),
+(403,118,o),
+(374,70,o),
+(317,65,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(430,77,o),
+(535,-10,o),
+(638,-10,cs),
+(693,-10,o),
+(759,12,o),
+(835,70,c),
+(804,130,l),
+(641,42,o),
+(544,144,o),
+(544,294,cs),
+(544,489,o),
+(713,446,o),
+(700,325,c),
+(500,318,l),
+(493,258,l),
+(836,258,l),
+(836,455,o),
+(733,511,o),
+(649,511,cs),
+(542,511,o),
+(430,403,o),
+(430,232,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+}
+);
+};
+width = 892;
+}
+);
+metricRight = "=e";
+unicode = 339;
+}

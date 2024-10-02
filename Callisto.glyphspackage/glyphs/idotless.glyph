@@ -1,0 +1,182 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (161,0);
+},
+{
+name = ogonek;
+pos = (274,0);
+},
+{
+name = top;
+pos = (123,500);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,0,l),
+(198,515,l),
+(168,503,o),
+(144,492,o),
+(113,480,c),
+(113,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 321;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (176,0);
+},
+{
+name = ogonek;
+pos = (299,0);
+},
+{
+name = top;
+pos = (158,500);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,1);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,4);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,0,l),
+(233,515,l),
+(203,503,o),
+(139,482,o),
+(108,470,c),
+(108,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 351;
+}
+);
+metricLeft = "=i";
+metricRight = "=i";
+unicode = 305;
+}

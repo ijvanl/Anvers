@@ -1,0 +1,258 @@
+{
+glyphname = r;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (212,0);
+},
+{
+name = top;
+pos = (212,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(381,391,o),
+(417,486,o),
+(390,501,cs),
+(320,540,o),
+(292,504,o),
+(208,413,c),
+(208,520,l,{
+name = _corner04;
+}),
+(178,508,o),
+(154,497,o),
+(123,485,c,{
+name = _corner05;
+}),
+(123,0,l,{
+name = _corner06;
+}),
+(208,0,l,{
+name = _corner07;
+}),
+(208,350,l),
+(247,418,o),
+(299,429,o),
+(357,402,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (1.1,-1.05);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,14);
+scale = (0.8,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,15);
+scale = (0.8,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(208,0,l),
+(208,304,ls),
+(208,397,o),
+(261,424,o),
+(366,392,cs),
+(382,387,o),
+(416,479,o),
+(381,497,cs),
+(310,533,o),
+(302,497,o),
+(208,407,c),
+(208,520,l),
+(178,508,o),
+(154,497,o),
+(123,485,c),
+(123,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{1.1, -1.05}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.8, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.8, 1}";
+type = Corner;
+}
+);
+};
+width = 423;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (217,0);
+},
+{
+name = top;
+pos = (217,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(381,391,o),
+(417,486,o),
+(390,501,cs),
+(320,540,o),
+(292,504,o),
+(208,413,c),
+(208,520,l,{
+name = _corner04;
+}),
+(178,508,o),
+(154,497,o),
+(123,485,c,{
+name = _corner05;
+}),
+(123,0,l,{
+name = _corner06;
+}),
+(208,0,l,{
+name = _corner07;
+}),
+(208,350,l),
+(247,418,o),
+(299,429,o),
+(357,402,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.9,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = (0,14);
+scale = (0.7,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,15);
+scale = (0.7,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,0,l),
+(233,244,ls),
+(233,337,o),
+(261,364,o),
+(366,332,cs),
+(382,327,o),
+(437,478,o),
+(372,500,cs),
+(317,519,o),
+(301,491,o),
+(233,386,c),
+(233,515,l),
+(203,503,o),
+(139,482,o),
+(108,470,c),
+(108,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.9, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.beak;
+options = 1;
+origin = _corner02;
+scale = "{0.7, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.7, 1}";
+type = Corner;
+}
+);
+};
+width = 433;
+}
+);
+unicode = 114;
+}

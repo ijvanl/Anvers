@@ -1,0 +1,330 @@
+{
+glyphname = OE;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (592,0);
+},
+{
+name = top;
+pos = (592,760);
+}
+);
+hints = (
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,0);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,37);
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = (0,38);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (2,0);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (2,6);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1076,0,l),
+(1112,179,l),
+(1079,193,l),
+(1012,83,o),
+(998,55,o),
+(856,55,cs),
+(729,55,o),
+(711,60,o),
+(711,119,cs),
+(711,365,l),
+(845,365,l),
+(910,365,o),
+(907,359,o),
+(942,296,c),
+(946,289,o),
+(971,293,o),
+(971,302,c),
+(971,358,o),
+(970,372,o),
+(970,393,cs),
+(970,413,o),
+(971,427,o),
+(971,483,c),
+(971,492,o),
+(946,496,o),
+(942,489,c),
+(907,426,o),
+(910,420,o),
+(845,420,c),
+(711,420,l),
+(711,640,ls),
+(711,699,o),
+(729,704,o),
+(856,704,cs),
+(978,704,o),
+(982,686,o),
+(1049,576,c),
+(1082,590,l),
+(1056,770,l),
+(906,760,l),
+(611,760,l),
+(611,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(279,760,o),
+(100,597,o),
+(100,365,cs),
+(100,147,o),
+(271,0,o),
+(496,0,cs),
+(711,0,l),
+(711,760,l),
+(524,760,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(611,65,l),
+(484,41,o),
+(207,67,o),
+(207,406,cs),
+(207,675,o),
+(435,729,o),
+(611,695,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner00;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+type = Corner;
+}
+);
+};
+width = 1213;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (591,0);
+},
+{
+name = top;
+pos = (591,760);
+}
+);
+hints = (
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,0);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,37);
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = (0,38);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (2,0);
+scale = (0.5,0.5);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (2,6);
+scale = (0.5,0.5);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1106,-1,l),
+(1152,189,l),
+(1094,213,l),
+(1037,103,o),
+(958,75,o),
+(876,75,cs),
+(749,75,o),
+(751,85,o),
+(751,144,cs),
+(751,355,l),
+(855,355,ls),
+(920,355,o),
+(932,342,o),
+(961,271,cs),
+(966,258,o),
+(1013,271,o),
+(1011,283,cs),
+(1006,316,o),
+(1005,344,o),
+(1005,390,cs),
+(1005,436,o),
+(1006,464,o),
+(1011,497,cs),
+(1013,509,o),
+(965,518,o),
+(961,509,cs),
+(932,438,o),
+(920,425,o),
+(855,425,cs),
+(751,425,l),
+(751,615,ls),
+(751,674,o),
+(749,684,o),
+(876,684,cs),
+(948,684,o),
+(1007,676,o),
+(1064,566,c),
+(1122,580,l),
+(1096,770,l),
+(946,760,l),
+(601,760,l),
+(601,-1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(229,760,o),
+(50,597,o),
+(50,365,cs),
+(50,147,o),
+(221,0,o),
+(476,0,cs),
+(751,0,l),
+(751,760,l),
+(504,760,ls)
+);
+},
+{
+closed = 1;
+nodes = (
+(601,80,l),
+(464,56,o),
+(217,77,o),
+(217,396,cs),
+(217,675,o),
+(455,709,o),
+(601,675,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner00;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+scale = "{0.5, 0.5}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner05;
+scale = "{0.5, 0.5}";
+type = Corner;
+}
+);
+};
+width = 1182;
+}
+);
+metricLeft = "+10";
+metricRight = "=E";
+unicode = 338;
+}

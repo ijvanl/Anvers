@@ -1,0 +1,200 @@
+{
+glyphname = Z;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (385,0);
+},
+{
+name = center;
+pos = (385,380);
+},
+{
+name = top;
+pos = (405,740);
+}
+);
+hints = (
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,11);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (0,13);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,4);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(700,715,l),
+(683,760,l),
+(135,760,l),
+(109,601,l),
+(142,587,l),
+(199,677,o),
+(213,695,o),
+(385,700,cs),
+(575,705,l),
+(70,45,l),
+(87,0,l),
+(665,0,l),
+(691,169,l),
+(658,183,l),
+(601,83,o),
+(587,73,o),
+(415,65,cs),
+(200,55,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner00;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner01;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner03;
+type = Segment;
+}
+);
+};
+width = 770;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (365,0);
+},
+{
+name = center;
+pos = (365,380);
+},
+{
+name = top;
+pos = (365,760);
+}
+);
+hints = (
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,11);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 1;
+origin = (0,2);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (0,13);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,4);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(680,715,l),
+(663,760,l),
+(115,760,l),
+(89,571,l),
+(142,557,l),
+(199,647,o),
+(213,671,o),
+(385,680,cs),
+(485,685,l),
+(50,45,l),
+(67,0,l),
+(645,0,l),
+(671,199,l),
+(618,213,l),
+(551,113,o),
+(537,97,o),
+(375,85,cs),
+(240,75,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner00;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 1;
+origin = _corner01;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner03;
+type = Segment;
+}
+);
+};
+width = 730;
+}
+);
+unicode = 90;
+}

@@ -1,0 +1,28 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (350,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 350;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (350,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 350;
+}
+);
+unicode = 41;
+}

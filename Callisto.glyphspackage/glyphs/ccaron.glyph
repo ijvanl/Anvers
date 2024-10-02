@@ -1,0 +1,32 @@
+{
+glyphname = ccaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (59,0);
+ref = caroncomb;
+}
+);
+width = 504;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (69,0);
+ref = caroncomb;
+}
+);
+width = 504;
+}
+);
+unicode = 269;
+}

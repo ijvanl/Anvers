@@ -1,0 +1,166 @@
+{
+glyphname = nine.osf;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(163,-266,l),
+(361,-144,o),
+(515,70,o),
+(515,244,cs),
+(515,395,o),
+(416,506,o),
+(280,506,cs),
+(133,506,o),
+(30,398,o),
+(30,267,cs),
+(30,132,o),
+(131,53,o),
+(243,53,cs),
+(295,53,o),
+(350,70,o),
+(398,107,c),
+(404,170,l),
+(377,131,o),
+(328,117,o),
+(291,117,cs),
+(209,117,o),
+(140,182,o),
+(140,289,cs),
+(140,359,o),
+(178,447,o),
+(261,447,cs),
+(358,447,o),
+(400,364,o),
+(400,241,cs),
+(400,64,o),
+(296,-111,o),
+(132,-232,c)
+);
+}
+);
+};
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,13);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,-266,l),
+(408,-137,o),
+(530,85,o),
+(530,230,cs),
+(530,373,o),
+(445,506,o),
+(287,506,cs),
+(155,506,o),
+(49,416,o),
+(49,280,cs),
+(49,86,o),
+(274,-13,o),
+(424,127,c),
+(427,180,l),
+(307,58,o),
+(147,157,o),
+(147,302,cs),
+(147,502,o),
+(430,520,o),
+(430,249,cs),
+(430,102,o),
+(337,-94,o),
+(152,-228,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 590;
+},
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,13);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(133,-258,l),
+(400,-127,o),
+(537,85,o),
+(537,244,cs),
+(537,395,o),
+(438,510,o),
+(306,510,cs),
+(126,510,o),
+(44,390,o),
+(44,271,cs),
+(44,129,o),
+(162,-12,o),
+(373,56,c),
+(382,119,l),
+(240,86,o),
+(176,190,o),
+(176,287,cs),
+(176,480,o),
+(398,497,o),
+(398,247,cs),
+(398,88,o),
+(296,-83,o),
+(99,-207,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 592;
+}
+);
+}

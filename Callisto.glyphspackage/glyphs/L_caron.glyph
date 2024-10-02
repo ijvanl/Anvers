@@ -1,0 +1,33 @@
+{
+glyphname = Lcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (345,-20);
+ref = caroncomb.alt;
+}
+);
+width = 705;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (661,-40);
+ref = caroncomb.alt;
+}
+);
+width = 711;
+}
+);
+metricLeft = "+10";
+unicode = 317;
+}

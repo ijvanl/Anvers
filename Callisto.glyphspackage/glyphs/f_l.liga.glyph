@@ -1,0 +1,75 @@
+{
+glyphname = f_l.liga;
+layers = (
+{
+anchors = (
+{
+name = bottom_1;
+pos = (170,0);
+},
+{
+name = bottom_2;
+pos = (509,0);
+},
+{
+name = caret_1;
+pos = (339.5,0);
+},
+{
+name = top_1;
+pos = (170,800);
+},
+{
+name = top_2;
+pos = (509,800);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = f.lig_comp;
+},
+{
+pos = (358,0);
+ref = l;
+}
+);
+width = 679;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (176,0);
+},
+{
+name = bottom_2;
+pos = (528,0);
+},
+{
+name = caret_1;
+pos = (352,0);
+},
+{
+name = top_1;
+pos = (176,800);
+},
+{
+name = top_2;
+pos = (528,800);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = f.lig_comp;
+},
+{
+pos = (358,0);
+ref = l;
+}
+);
+width = 704;
+}
+);
+}

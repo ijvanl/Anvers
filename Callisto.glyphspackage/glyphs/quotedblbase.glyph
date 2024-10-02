@@ -1,0 +1,32 @@
+{
+glyphname = quotedblbase;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (210,0);
+ref = comma;
+},
+{
+ref = comma;
+}
+);
+width = 464;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (190,0);
+ref = comma;
+},
+{
+ref = comma;
+}
+);
+width = 445;
+}
+);
+unicode = 8222;
+}

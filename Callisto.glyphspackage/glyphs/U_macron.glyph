@@ -1,0 +1,33 @@
+{
+glyphname = Umacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (277,260);
+ref = macroncomb;
+}
+);
+width = 896;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (202,260);
+ref = macroncomb;
+}
+);
+width = 866;
+}
+);
+metricLeft = "+10";
+unicode = 362;
+}

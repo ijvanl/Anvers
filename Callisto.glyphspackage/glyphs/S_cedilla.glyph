@@ -1,0 +1,33 @@
+{
+glyphname = Scedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (163,0);
+ref = cedillacomb;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (138,0);
+ref = cedillacomb;
+}
+);
+width = 583;
+}
+);
+metricLeft = "+10";
+unicode = 350;
+}

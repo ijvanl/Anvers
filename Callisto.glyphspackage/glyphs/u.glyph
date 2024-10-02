@@ -1,0 +1,339 @@
+{
+glyphname = u;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (316,0);
+},
+{
+name = ogonek;
+pos = (493,5);
+},
+{
+name = top;
+pos = (316,500);
+},
+{
+name = topright;
+pos = (612,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,500,l,{
+name = _corner00;
+}),
+(101,170,ls),
+(101,86,o),
+(146,-11,o),
+(259,-11,cs),
+(304,-11,o),
+(395,11,o),
+(481,159,c),
+(438,200,l),
+(423,108,o),
+(365,66,o),
+(305,66,cs),
+(237,66,o),
+(191,104,o),
+(191,200,cs),
+(191,510,l,{
+name = _corner01;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(426,495,l,{
+name = _corner02;
+}),
+(426,-15,l,{
+name = _corner03;
+}),
+(456,-5,o),
+(476,0,o),
+(516,10,c,{
+name = _corner04;
+}),
+(516,510,l,{
+name = _corner05;
+})
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,3);
+scale = (-0.9,1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (1,4);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (-0.75,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,8);
+scale = (-0.7,1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,7);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,-11,o),
+(395,41,o),
+(481,119,c),
+(457,140,l),
+(284,7,o),
+(187,74,o),
+(191,200,cs),
+(201,510,l),
+(116,495,l),
+(101,170,ls),
+(97,86,o),
+(146,-11,o),
+(249,-11,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(511,10,l),
+(521,500,l),
+(511,508,l),
+(436,495,l),
+(426,-15,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{-0.9, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{-0.75, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner03;
+scale = "{-0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+}
+);
+};
+width = 632;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (329,0);
+},
+{
+name = ogonek;
+pos = (592,10);
+},
+{
+name = top;
+pos = (329,500);
+},
+{
+name = topright;
+pos = (638,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,485,l,{
+name = _corner06;
+}),
+(424,-15,l,{
+name = _corner07;
+}),
+(454,-5,o),
+(509,20,o),
+(549,30,c,{
+name = _corner08;
+}),
+(549,510,l,{
+name = _corner09;
+})
+);
+},
+{
+closed = 1;
+nodes = (
+(119,485,l,{
+name = _corner10;
+}),
+(110,170,ls),
+(107,76,o),
+(154,-11,o),
+(247,-11,cs),
+(322,-11,o),
+(393,41,o),
+(479,119,c),
+(455,160,l),
+(282,57,o),
+(237,114,o),
+(239,220,cs),
+(244,510,l,{
+name = _corner11;
+})
+);
+}
+);
+};
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (1,3);
+scale = (-0.8,1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (1,4);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,8);
+scale = (-0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (1,0);
+scale = (-0.7,1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,7);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,-11,o),
+(410,38,o),
+(460,108,c),
+(436,139,l),
+(363,70,o),
+(230,62,o),
+(230,189,cs),
+(230,504,l),
+(115,489,l),
+(105,159,ls),
+(102,44,o),
+(166,-11,o),
+(255,-11,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(545,29,l),
+(545,489,l),
+(525,506,l),
+(420,490,l),
+(420,-16,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{-0.8, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner01;
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{-0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner03;
+scale = "{-0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+}
+);
+};
+width = 658;
+}
+);
+unicode = 117;
+}

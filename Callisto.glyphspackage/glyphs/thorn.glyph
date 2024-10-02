@@ -1,0 +1,258 @@
+{
+glyphname = thorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (299,0);
+},
+{
+name = top;
+pos = (299,500);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (1,6);
+type = Segment;
+},
+{
+name = _corner.serif;
+origin = (0,3);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,4);
+scale = (1,-1.1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,8);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,11);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,697,o),
+(111,610,o),
+(111,435,cs),
+(111,-250,l),
+(196,-250,l),
+(196,530,ls),
+(196,625,o),
+(201,720,o),
+(206,815,c),
+(160,798,o),
+(121,781,o),
+(75,770,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(545,400,o),
+(485,510,o),
+(351,510,cs),
+(280,510,o),
+(199,467,o),
+(120,360,c),
+(159,350,l),
+(209,405,o),
+(262,431,o),
+(310,431,cs),
+(414,431,o),
+(455,353,o),
+(455,221,cs),
+(455,100,o),
+(384,57,o),
+(308,57,cs),
+(254,57,o),
+(199,78,o),
+(165,110,c),
+(140,25,l),
+(165,10,o),
+(219,-11,o),
+(294,-11,cs),
+(407,-11,o),
+(545,107,o),
+(545,268,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{1, -1.1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner04;
+type = Corner;
+}
+);
+};
+width = 598;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (318,0);
+},
+{
+name = top;
+pos = (318,500);
+}
+);
+hints = (
+{
+name = _corner.serif;
+origin = (0,4);
+scale = (1,-1.1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,3);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,8);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,11);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (1,6);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,637,o),
+(115,570,o),
+(112,335,cs),
+(108,-250,l),
+(233,-250,l),
+(233,530,ls),
+(233,625,o),
+(238,720,o),
+(243,815,c),
+(197,798,o),
+(113,772,o),
+(67,760,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(582,423,o),
+(500,508,o),
+(402,508,cs),
+(318,508,o),
+(222,445,o),
+(157,310,c),
+(196,310,l),
+(252,376,o),
+(299,402,o),
+(337,402,cs),
+(405,402,o),
+(447,340,o),
+(447,242,cs),
+(447,145,o),
+(423,68,o),
+(344,68,cs),
+(285,68,o),
+(238,116,o),
+(202,150,c),
+(177,5,l),
+(213,-4,o),
+(249,-8,o),
+(284,-8,cs),
+(445,-8,o),
+(582,84,o),
+(582,268,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+origin = _corner00;
+scale = "{1, -1.1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner02;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner04;
+type = Segment;
+}
+);
+};
+width = 635;
+}
+);
+metricLeft = "=h";
+metricRight = "=p";
+unicode = 254;
+}

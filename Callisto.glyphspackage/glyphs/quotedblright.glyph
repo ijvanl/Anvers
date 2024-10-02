@@ -1,0 +1,33 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (170,0);
+ref = quoteright;
+},
+{
+pos = (-30,0);
+ref = quoteright;
+}
+);
+width = 454;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (190,0);
+ref = quoteright;
+},
+{
+ref = quoteright;
+}
+);
+width = 385;
+}
+);
+unicode = 8221;
+}

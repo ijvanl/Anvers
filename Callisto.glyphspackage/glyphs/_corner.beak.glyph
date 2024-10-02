@@ -1,0 +1,74 @@
+{
+export = 0;
+glyphname = _corner.beak;
+layers = (
+{
+anchors = (
+{
+name = left;
+pos = (0,110);
+},
+{
+name = origin;
+},
+{
+name = right;
+pos = (30,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,115,l),
+(-2,80,o),
+(4,73,o),
+(-65,30,cs),
+(-77,23,o),
+(-61,-4,o),
+(-51,-4,c),
+(-36,-3,o),
+(20,-1,o),
+(35,0,c)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = left;
+pos = (0,120);
+},
+{
+name = origin;
+},
+{
+name = right;
+pos = (30,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,125,l),
+(-2,90,o),
+(-36,83,o),
+(-105,40,cs),
+(-117,33,o),
+(-91,-4,o),
+(-81,-4,c),
+(-36,-2,o),
+(-10,0,o),
+(35,0,c)
+);
+}
+);
+width = 600;
+}
+);
+}

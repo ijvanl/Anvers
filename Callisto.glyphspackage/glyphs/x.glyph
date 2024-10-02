@@ -1,0 +1,376 @@
+{
+glyphname = x;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (270,0);
+},
+{
+name = top;
+pos = (270,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,0,l,{
+name = _corner00;
+}),
+(252,189,l),
+(381,0,l,{
+name = _corner01;
+}),
+(491,0,l,{
+name = _corner02;
+}),
+(309,252,l),
+(511,490,l,{
+name = _corner03;
+}),
+(426,490,l,{
+name = _corner04;
+}),
+(281,296,l),
+(158,490,l,{
+name = _corner05;
+}),
+(48,490,l,{
+name = _corner06;
+}),
+(223,231,l),
+(28,0,l,{
+name = _corner07;
+})
+);
+}
+);
+};
+guides = (
+{
+pos = (418,245);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,3);
+scale = (0.5,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,6);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,11);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,9);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,2);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,8);
+scale = (0.5,1);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(426,490,l),
+(282,298,l),
+(151,490,l),
+(48,490,l),
+(226,234,l),
+(28,0,l),
+(113,0,l),
+(255,191,l),
+(386,0,l),
+(489,0,l),
+(310,255,l),
+(511,490,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.5, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner05;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner06;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner07;
+scale = "{0.5, 1}";
+type = Corner;
+}
+);
+};
+width = 539;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (273,0);
+},
+{
+name = top;
+pos = (273,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(130,0,l,{
+name = _corner00;
+}),
+(269,189,l),
+(398,0,l,{
+name = _corner01;
+}),
+(508,0,l,{
+name = _corner02;
+}),
+(326,252,l),
+(528,490,l,{
+name = _corner03;
+}),
+(443,490,l,{
+name = _corner04;
+}),
+(298,296,l),
+(175,490,l,{
+name = _corner05;
+}),
+(65,490,l,{
+name = _corner06;
+}),
+(240,231,l),
+(45,0,l,{
+name = _corner07;
+})
+);
+}
+);
+};
+guides = (
+{
+pos = (435,245);
+}
+);
+hints = (
+{
+name = _corner.serif;
+options = 1;
+origin = (0,3);
+scale = (0.5,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,5);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,6);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,11);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,0);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,9);
+scale = (0.6,-1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,2);
+scale = (0.5,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,8);
+scale = (0.5,1);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(423,490,l),
+(299,308,l),
+(188,490,l),
+(35,490,l),
+(213,234,l),
+(5,0,l),
+(120,0,l),
+(252,181,l),
+(353,0,l),
+(506,0,l),
+(337,255,l),
+(538,490,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+options = 1;
+origin = _corner00;
+scale = "{0.5, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner01;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner02;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner03;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner05;
+scale = "{0.6, -1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner06;
+scale = "{0.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner07;
+scale = "{0.5, 1}";
+type = Corner;
+}
+);
+};
+width = 545;
+}
+);
+unicode = 120;
+}

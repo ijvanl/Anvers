@@ -1,0 +1,196 @@
+{
+glyphname = f;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (179,0);
+},
+{
+name = top;
+pos = (179,800);
+}
+);
+hints = (
+{
+name = _corner.serif;
+origin = (0,0);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (1,-1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (1,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,2);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,0,l),
+(207,0,l),
+(207,559,ls),
+(207,695,o),
+(261,765,o),
+(418,682,cs),
+(449,666,o),
+(485,768,o),
+(458,783,cs),
+(360,837,o),
+(122,786,o),
+(122,517,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(41,430,l),
+(321,430,l),
+(321,490,l),
+(131,490,l),
+(41,480,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+origin = _corner00;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner01;
+scale = "{1, -1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner03;
+type = Segment;
+}
+);
+};
+width = 358;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (179,0);
+},
+{
+name = top;
+pos = (179,800);
+}
+);
+hints = (
+{
+name = _corner.serif;
+origin = (0,0);
+scale = (0.7,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (1,-1.1);
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = (1,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,2);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,0,l),
+(257,0,l),
+(257,559,ls),
+(257,695,o),
+(291,715,o),
+(448,632,cs),
+(479,616,o),
+(515,768,o),
+(488,783,cs),
+(390,837,o),
+(122,786,o),
+(122,517,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(41,410,l),
+(371,410,l),
+(371,500,l),
+(131,490,l),
+(41,480,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serif;
+origin = _corner00;
+scale = "{0.7, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner01;
+scale = "{1, -1.1}";
+type = Corner;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner03;
+type = Segment;
+}
+);
+};
+width = 358;
+}
+);
+unicode = 102;
+}

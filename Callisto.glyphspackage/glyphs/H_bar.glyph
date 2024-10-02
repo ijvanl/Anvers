@@ -1,0 +1,104 @@
+{
+glyphname = Hbar;
+layers = (
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (70,0);
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(111,520,l,{
+name = _corner00;
+}),
+(847,520,l),
+(847,570,l,{
+name = _corner01;
+}),
+(111,570,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 1036;
+},
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (0,2);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(41,520,l,{
+name = _corner00;
+}),
+(787,520,l),
+(787,580,l,{
+name = _corner01;
+}),
+(41,580,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+}
+);
+};
+width = 828;
+}
+);
+metricLeft = "+10";
+unicode = 294;
+}

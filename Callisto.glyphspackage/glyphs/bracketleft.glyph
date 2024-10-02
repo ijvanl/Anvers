@@ -1,0 +1,166 @@
+{
+glyphname = bracketleft;
+layers = (
+{
+hints = (
+{
+name = _corner.mitre;
+options = 2;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,0);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,-130,l),
+(210,-140,l),
+(210,780,l),
+(120,770,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serifR;
+options = 1;
+origin = _corner00;
+scale = "{1.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serifL;
+origin = _corner01;
+scale = "{1.5, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 2;
+origin = _corner02;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{-1, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner05;
+type = Corner;
+}
+);
+};
+width = 361;
+},
+{
+hints = (
+{
+name = _corner.mitre;
+options = 2;
+origin = (0,3);
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = (0,0);
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = (0,1);
+scale = (-1,1);
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = (0,2);
+type = Corner;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,-130,l),
+(240,-140,l),
+(240,780,l),
+(120,770,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _corner.serifR;
+options = 1;
+origin = _corner00;
+scale = "{1.5, 1}";
+type = Corner;
+},
+{
+name = _corner.serifL;
+origin = _corner01;
+scale = "{1.5, 1}";
+type = Corner;
+},
+{
+name = _corner.mitre;
+options = 2;
+origin = _corner02;
+type = Corner;
+},
+{
+name = _corner.mitre;
+origin = _corner03;
+type = Corner;
+},
+{
+name = _corner.serif;
+options = 1;
+origin = _corner04;
+scale = "{-1, 1}";
+type = Corner;
+},
+{
+name = _corner.serif;
+origin = _corner05;
+type = Corner;
+}
+);
+};
+width = 361;
+}
+);
+unicode = 91;
+}

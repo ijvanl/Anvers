@@ -1,0 +1,143 @@
+{
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (149,0);
+},
+{
+name = bottom;
+pos = (149,-263);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,-226,o),
+(20,-278,o),
+(31,-288,cs),
+(42,-297,o),
+(83,-307,o),
+(119,-307,cs),
+(179,-307,o),
+(267,-247,o),
+(271,-186,cs),
+(274,-128,o),
+(227,-82,o),
+(157,-82,c),
+(93,-144,l),
+(163,-140,o),
+(197,-154,o),
+(196,-198,cs),
+(194,-236,o),
+(172,-247,o),
+(152,-248,cs),
+(131,-249,o),
+(100,-239,o),
+(80,-232,cs)
+);
+}
+);
+};
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(47,-238,l),
+(186,-324,o),
+(319,-162,o),
+(223,-86,cs),
+(186,-57,ls),
+(163,-39,o),
+(184,-19,o),
+(224,8,c),
+(168,13,l),
+(116,-24,o),
+(69,-77,o),
+(115,-113,cs),
+(161,-149,ls),
+(204,-183,o),
+(152,-249,o),
+(71,-200,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+}
+);
+};
+width = 301;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (154,0);
+},
+{
+name = bottom;
+pos = (154,-276);
+}
+);
+hints = (
+{
+name = _segment.bulge;
+origin = (0,0);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(55,-256,l),
+(187,-333,o),
+(324,-171,o),
+(221,-90,cs),
+(184,-61,ls),
+(159,-41,o),
+(178,-19,o),
+(211,4,c),
+(150,8,l),
+(100,-29,o),
+(47,-87,o),
+(95,-124,cs),
+(135,-155,ls),
+(181,-191,o),
+(146,-248,o),
+(74,-208,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+}
+);
+};
+width = 307;
+}
+);
+unicode = 807;
+}

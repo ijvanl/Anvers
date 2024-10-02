@@ -1,0 +1,32 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (87,0);
+ref = caroncomb;
+}
+);
+width = 532;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (33,0);
+ref = caroncomb;
+}
+);
+width = 532;
+}
+);
+unicode = 283;
+}

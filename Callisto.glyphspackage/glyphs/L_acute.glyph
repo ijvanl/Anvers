@@ -1,0 +1,33 @@
+{
+glyphname = Lacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (73,230);
+ref = acutecomb;
+}
+);
+width = 705;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (203,260);
+ref = acutecomb;
+}
+);
+width = 711;
+}
+);
+metricLeft = "+10";
+unicode = 313;
+}

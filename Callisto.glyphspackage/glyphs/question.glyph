@@ -1,0 +1,156 @@
+{
+glyphname = question;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,746,o),
+(158,807,o),
+(60,753,cs),
+(33,738,o),
+(69,636,o),
+(100,652,cs),
+(257,735,o),
+(311,665,o),
+(311,569,c),
+(116,405,l),
+(201,230,l),
+(251,230,l),
+(186,355,l),
+(256,409,o),
+(326,463,o),
+(396,517,c)
+);
+}
+);
+};
+hints = (
+{
+name = _segment.bulge;
+origin = (0,15);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,737,o),
+(251,811,o),
+(141,811,cs),
+(110,811,o),
+(81,805,o),
+(44,785,cs),
+(9,766,o),
+(46,664,o),
+(92,688,cs),
+(198,744,o),
+(306,752,o),
+(306,630,cs),
+(306,481,o),
+(-6,524,o),
+(131,270,c),
+(171,280,l),
+(127,452,o),
+(396,435,o),
+(396,597,cs)
+);
+},
+{
+pos = (16,0);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+}
+);
+};
+width = 466;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,746,o),
+(158,807,o),
+(60,753,cs),
+(33,738,o),
+(69,636,o),
+(100,652,cs),
+(257,735,o),
+(311,665,o),
+(311,569,c),
+(116,405,l),
+(201,230,l),
+(251,230,l),
+(186,355,l),
+(256,409,o),
+(326,463,o),
+(396,517,c)
+);
+}
+);
+};
+hints = (
+{
+name = _segment.bulge;
+origin = (0,15);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,737,o),
+(251,811,o),
+(141,811,cs),
+(110,811,o),
+(81,805,o),
+(44,785,cs),
+(9,766,o),
+(36,624,o),
+(82,648,cs),
+(188,704,o),
+(266,732,o),
+(266,630,cs),
+(266,481,o),
+(-66,524,o),
+(131,270,c),
+(181,280,l),
+(137,452,o),
+(396,435,o),
+(396,597,cs)
+);
+},
+{
+pos = (26,0);
+ref = period;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+}
+);
+};
+width = 466;
+}
+);
+unicode = 63;
+}

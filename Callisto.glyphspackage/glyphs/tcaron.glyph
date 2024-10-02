@@ -1,0 +1,32 @@
+{
+glyphname = tcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (211,-20);
+ref = caroncomb.alt;
+}
+);
+width = 401;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (230,0);
+ref = caroncomb.alt;
+}
+);
+width = 400;
+}
+);
+unicode = 357;
+}

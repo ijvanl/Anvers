@@ -1,0 +1,57 @@
+{
+glyphname = _corner.inktrap;
+layers = (
+{
+anchors = (
+{
+name = left;
+pos = (0,1);
+},
+{
+name = origin;
+},
+{
+name = right;
+pos = (1,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,1,l),
+(1,0,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = left;
+pos = (0,10);
+},
+{
+name = origin;
+},
+{
+name = right;
+pos = (10,0);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,1,l),
+(1,0,l)
+);
+}
+);
+width = 600;
+}
+);
+}

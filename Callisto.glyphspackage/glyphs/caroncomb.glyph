@@ -1,0 +1,70 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (193,500);
+},
+{
+name = top;
+pos = (193,760);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,738,o),
+(98,764,o),
+(106,759,cs),
+(222,689,l),
+(338,759,ls),
+(346,764,o),
+(374,738,o),
+(362,724,cs),
+(251,602,ls),
+(227,576,o),
+(216,577,o),
+(193,602,cs),
+(82,724,ls)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,1343);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+width = 386;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (233,500);
+},
+{
+name = top;
+pos = (233,764);
+}
+);
+layerId = m002;
+shapes = (
+{
+pos = (0,1343);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+width = 465;
+}
+);
+unicode = 780;
+}

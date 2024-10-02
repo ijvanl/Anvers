@@ -1,0 +1,111 @@
+{
+glyphname = idotaccent;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,640,o),
+(213,676,o),
+(213,700,c),
+(198,734,o),
+(161,755,o),
+(138,755,c),
+(105,740,o),
+(83,704,o),
+(83,680,c),
+(98,646,o),
+(135,625,o),
+(158,625,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(198,0,l,{
+name = _corner00;
+}),
+(198,515,l,{
+name = _corner01;
+}),
+(168,503,o),
+(144,492,o),
+(113,480,c,{
+name = _corner02;
+}),
+(113,0,l,{
+name = _corner03;
+})
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (8,0);
+ref = dotaccentcomb;
+}
+);
+width = 321;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,635,o),
+(243,682,o),
+(243,713,c),
+(223,758,o),
+(175,785,o),
+(145,785,c),
+(101,765,o),
+(73,718,o),
+(73,687,c),
+(93,642,o),
+(141,615,o),
+(171,615,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,0,l,{
+name = _corner00;
+}),
+(233,515,l,{
+name = _corner01;
+}),
+(203,503,o),
+(139,482,o),
+(108,470,c,{
+name = _corner02;
+}),
+(108,0,l,{
+name = _corner03;
+})
+);
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (23,0);
+ref = dotaccentcomb;
+}
+);
+width = 351;
+}
+);
+}

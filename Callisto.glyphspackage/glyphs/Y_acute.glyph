@@ -1,0 +1,33 @@
+{
+glyphname = Yacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (312,240);
+ref = acutecomb;
+}
+);
+width = 886;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (223,260);
+ref = acutecomb;
+}
+);
+width = 751;
+}
+);
+metricLeft = "+10";
+unicode = 221;
+}

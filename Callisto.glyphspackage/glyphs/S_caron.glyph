@@ -1,0 +1,33 @@
+{
+glyphname = Scaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (129,250);
+ref = caroncomb;
+}
+);
+width = 623;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (59,260);
+ref = caroncomb;
+}
+);
+width = 583;
+}
+);
+metricLeft = "+10";
+unicode = 352;
+}

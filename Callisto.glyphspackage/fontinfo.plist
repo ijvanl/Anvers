@@ -1,0 +1,237 @@
+{
+.appVersion = "3134";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+date = "2024-10-02 05:59:39 +0000";
+familyName = Callisto;
+featurePrefixes = (
+{
+code = "languagesystem DFLT dflt;";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature ordn;
+feature onum;
+feature ss01;";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "sub N o period by numero;";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub three by three.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;";
+tag = onum;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f b by f_b.liga;
+sub f h by f_h.liga;
+sub f i by f_i.liga;
+sub f j by f_j.liga;
+sub f k by f_k.liga;
+sub f l by f_l.liga;";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub Q by Q.ss01;";
+tag = ss01;
+}
+);
+fontMaster = (
+{
+axesValues = (
+400
+);
+guides = (
+{
+angle = 120;
+pos = (181,275);
+},
+{
+angle = 210;
+pos = (80,266);
+}
+);
+id = m01;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = Regular;
+userData = {
+GSOffsetHorizontal = 5;
+GSOffsetPosition = 0;
+GSOffsetVertical = 5;
+};
+},
+{
+axesValues = (
+800
+);
+guides = (
+{
+angle = 120;
+pos = (236,281);
+},
+{
+angle = 210;
+pos = (80,266);
+}
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+}
+);
+name = Heavy;
+userData = {
+GSOffsetHorizontal = 20;
+GSOffsetKeepCompatible = 1;
+GSOffsetPosition = 0;
+GSOffsetVertical = 20;
+};
+}
+);
+instances = (
+{
+axesValues = (
+400
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m002 = 0.75;
+m01 = 0.25;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+unitsPerEm = 1000;
+userData = {
+UFO.lib = {
+public.postscriptNames = {
+Gcommaaccent = uni0122;
+Germandbls = uni1E9E;
+Kcommaaccent = uni0136;
+Lcommaaccent = uni013B;
+Ncommaaccent = uni0145;
+Scommaaccent = uni0218;
+Tcommaaccent = uni021A;
+brevecomb = uni0306;
+caroncomb = uni030C;
+caroncomb.alt = uni030C.alt;
+cedillacomb = uni0327;
+circumflexcomb = uni0302;
+commaaccentcomb = uni0326;
+commaturnedabovecomb = uni0312;
+dieresiscomb = uni0308;
+dotaccentcomb = uni0307;
+euro = Euro;
+gcommaaccent = uni0123;
+guillemetleft = guillemotleft;
+guillemetright = guillemotright;
+hungarumlautcomb = uni030B;
+idotaccent = i.loclTRK;
+idotless = dotlessi;
+jdotless = uni0237;
+kcommaaccent = uni0137;
+lcommaaccent = uni013C;
+macroncomb = uni0304;
+nbspace = uni00A0;
+ncommaaccent = uni0146;
+numero = uni2116;
+ogonekcomb = uni0328;
+ringcomb = uni030A;
+scommaaccent = uni0219;
+tcommaaccent = uni021B;
+};
+};
+UFOFormat = 3;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

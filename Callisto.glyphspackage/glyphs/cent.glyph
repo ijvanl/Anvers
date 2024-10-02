@@ -1,0 +1,168 @@
+{
+glyphname = cent;
+layers = (
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,3);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,2);
+type = Segment;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(343,-10,o),
+(409,12,o),
+(485,70,c),
+(464,110,l),
+(287,24,o),
+(150,81,o),
+(150,279,cs),
+(150,374,o),
+(210,440,o),
+(290,440,cs),
+(348,440,o),
+(388,407,o),
+(430,370,cs),
+(457,346,o),
+(491,449,o),
+(470,470,cs),
+(450,490,o),
+(396,511,o),
+(331,511,cs),
+(208,511,o),
+(55,393,o),
+(55,232,cs),
+(55,97,o),
+(165,-10,o),
+(288,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(260,640,l),
+(260,-150,l),
+(320,-150,l),
+(320,640,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+}
+);
+};
+width = 600;
+},
+{
+hints = (
+{
+name = _segment.bulge;
+origin = (0,3);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,0);
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = (1,2);
+type = Segment;
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(355,-9,o),
+(426,16,o),
+(495,70,c),
+(464,130,l),
+(313,61,o),
+(190,96,o),
+(190,279,cs),
+(190,382,o),
+(243,415,o),
+(286,415,cs),
+(329,415,o),
+(382,372,o),
+(424,345,cs),
+(461,322,o),
+(502,448,o),
+(480,470,cs),
+(454,496,o),
+(410,509,o),
+(360,509,cs),
+(236,509,o),
+(55,424,o),
+(55,232,cs),
+(55,81,o),
+(170,-9,o),
+(291,-9,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(270,640,l),
+(270,-150,l),
+(340,-150,l),
+(340,640,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.layer.corners = (
+{
+name = _segment.bulge;
+origin = _corner00;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner01;
+type = Segment;
+},
+{
+name = _segment.bulge;
+origin = _corner02;
+type = Segment;
+}
+);
+};
+width = 600;
+}
+);
+unicode = 162;
+}
