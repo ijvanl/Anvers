@@ -1,0 +1,26 @@
+# ninja log v5
+2	1870	1727861117742851353	instance_ufos/Anvers-Bold.ufo.json	f1a9d2f3f70de95f
+1	1917	1727861117792420646	instance_ufos/Anvers-Semibold.ufo.json	13a1a48339a8ded4
+1	1931	1727861117817642332	instance_ufos/Anvers-Regular.ufo.json	119318943b322dec
+1	2005	1727861117895617012	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpfg75d1et	25921329ff16993e
+1870	3922	1727861119827679424	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp4re453re	d88a7dcf477b34bb
+1917	3938	1727861119848967287	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp0eitzo9n	731dba3bbfc31bda
+1931	4029	1727861119944334590	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpdd4lwh5d	e71eb54557ac2266
+2005	4628	1727861120464529913	../fonts/variable/Anvers[wght].ttf	88f905f41696cbcd
+1871	5025	1727861120616638157	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpbw7iy6mq	d9ecd62c6c4431bc
+1932	5061	1727861120752066568	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzj25xmia	4a9a661d5f9fdda4
+1917	5100	1727861120759080800	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpauayex1i	9651dbcc7fe98429
+4628	6190	1727861122305838802	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzllounoq.buildStatstamp	1ea0255353658a39
+4628	6907	1727861122823669630	../fonts/webfonts/Anvers[wght].woff2	fc6ffafb47c37b14
+3922	6975	1727861122697982820	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpcnk5xr03	c01ddc27aecb0324
+3938	7030	1727861122785700767	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpmrfzuljo	56c9adb7de909f95
+4029	7064	1727861122835085935	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmphzcl92z0	cb29a487d0b04aa9
+5025	8102	1727861123775496330	../fonts/otf/Anvers-Bold.otf	124a150eb51d5051
+5100	8314	1727861123837837757	../fonts/otf/Anvers-Semibold.otf	c4347403e292ccc8
+5061	8455	1727861124194201698	../fonts/otf/Anvers-Regular.otf	d64c91f052fd4d0e
+6975	9558	1727861125371357667	../fonts/ttf/Anvers-Bold.ttf	b297ac3fe2a3f16f
+7030	9608	1727861125459262572	../fonts/ttf/Anvers-Semibold.ttf	ddb17b42a6f9c644
+7064	9624	1727861125477142652	../fonts/ttf/Anvers-Regular.ttf	90f49fc4eab20f1
+9624	10740	1727861126698407260	../fonts/webfonts/Anvers-Regular.woff2	7c82c22d5099aca0
+9558	10741	1727861126693871563	../fonts/webfonts/Anvers-Bold.woff2	25feffd92143d297
+9608	10742	1727861126696527973	../fonts/webfonts/Anvers-Semibold.woff2	20396f4690ab231f

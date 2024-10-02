@@ -1,0 +1,220 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# compress: Compress to webfont
+rule compress
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $in $
+      $stamp
+  description = compress
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# buildOTF: Build a OTF from a source file
+rule buildOTF
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o otf $
+      $fontmake_type $in $args $stamp
+  description = buildOTF
+
+# copy: Copy a file
+rule copy
+  command = /opt/homebrew/opt/python@3.11/bin/python3.11 -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpfg75d1et
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpfg75d1et: $
+    buildVariable Anvers.glyphspackage
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/Anvers-Regular.ufo.json
+build instance_ufos/Anvers-Regular.ufo.json: instantiateUfo $
+    Anvers.glyphspackage
+  operation = instantiateUfo
+  instance_name = Anvers Regular
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Anvers-Semibold.ufo.json
+build instance_ufos/Anvers-Semibold.ufo.json: instantiateUfo $
+    Anvers.glyphspackage
+  operation = instantiateUfo
+  instance_name = Anvers Semibold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Generating instance_ufos/Anvers-Bold.ufo.json
+build instance_ufos/Anvers-Bold.ufo.json: instantiateUfo Anvers.glyphspackage
+  operation = instantiateUfo
+  instance_name = Anvers Bold
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --instance-dir instance_ufos
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzllounoq.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/Anvers[wght].ttf
+  stamp =  && touch $
+      /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzllounoq.buildStatstamp
+  postprocess = buildStat
+  args = --src /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmprfd617nm
+# Generating ../fonts/webfonts/Anvers[wght].woff2
+build ../fonts/webfonts/Anvers[wght].woff2: compress $
+    ../fonts/variable/Anvers[wght].ttf
+  operation = compress
+# Generating ../fonts/webfonts/Anvers-Regular.woff2
+build ../fonts/webfonts/Anvers-Regular.woff2: compress $
+    ../fonts/ttf/Anvers-Regular.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Anvers-Semibold.woff2
+build ../fonts/webfonts/Anvers-Semibold.woff2: compress $
+    ../fonts/ttf/Anvers-Semibold.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Anvers-Bold.woff2
+build ../fonts/webfonts/Anvers-Bold.woff2: compress $
+    ../fonts/ttf/Anvers-Bold.ttf
+  operation = compress
+# Generating ../fonts/variable/Anvers[wght].ttf
+build ../fonts/variable/Anvers[wght].ttf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpfg75d1et
+  operation = fix
+  args = 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpdd4lwh5d
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpdd4lwh5d: $
+    buildTTF instance_ufos/Anvers-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzj25xmia
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzj25xmia: $
+    buildOTF instance_ufos/Anvers-Regular.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmphzcl92z0
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmphzcl92z0: $
+    autohint /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpdd4lwh5d
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Anvers-Regular.ttf
+build ../fonts/ttf/Anvers-Regular.ttf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmphzcl92z0
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Anvers-Regular.otf
+build ../fonts/otf/Anvers-Regular.otf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzj25xmia
+  operation = fix
+  args = 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp0eitzo9n
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp0eitzo9n: $
+    buildTTF instance_ufos/Anvers-Semibold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpauayex1i
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpauayex1i: $
+    buildOTF instance_ufos/Anvers-Semibold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpmrfzuljo
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpmrfzuljo: $
+    autohint /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp0eitzo9n
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Anvers-Semibold.ttf
+build ../fonts/ttf/Anvers-Semibold.ttf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpmrfzuljo
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Anvers-Semibold.otf
+build ../fonts/otf/Anvers-Semibold.otf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpauayex1i
+  operation = fix
+  args = 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp4re453re
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp4re453re: $
+    buildTTF instance_ufos/Anvers-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpbw7iy6mq
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpbw7iy6mq: $
+    buildOTF instance_ufos/Anvers-Bold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpcnk5xr03
+build /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpcnk5xr03: $
+    autohint /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp4re453re
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Anvers-Bold.ttf
+build ../fonts/ttf/Anvers-Bold.ttf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpcnk5xr03
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Anvers-Bold.otf
+build ../fonts/otf/Anvers-Bold.otf: fix $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpbw7iy6mq
+  operation = fix
+  args = 
+default $
+    /var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpzllounoq.buildStatstamp $
+    ../fonts/webfonts/Anvers[wght].woff2 $
+    ../fonts/webfonts/Anvers-Regular.woff2 $
+    ../fonts/webfonts/Anvers-Semibold.woff2 $
+    ../fonts/webfonts/Anvers-Bold.woff2 ../fonts/otf/Anvers-Regular.otf $
+    ../fonts/otf/Anvers-Semibold.otf ../fonts/otf/Anvers-Bold.otf
