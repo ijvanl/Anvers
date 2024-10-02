@@ -190,6 +190,26 @@ type = baseline;
 type = descender;
 }
 );
+properties = (
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Ishtar van Looy";
+}
+);
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "OFL 3.1";
+}
+);
+}
+);
 unitsPerEm = 1000;
 userData = {
 UFO.lib = {

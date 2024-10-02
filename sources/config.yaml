@@ -1,0 +1,18 @@
+sources:
+  - Callisto.glyphspackage
+axisOrder:
+  - wght
+familyName: Callisto
+stat:
+  Callisto[wght].ttf:
+  - name: Weight
+    tag: wght
+    values:
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
