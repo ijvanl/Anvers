@@ -15,11 +15,11 @@ pos = (-32,-357);
 layerId = m01;
 shapes = (
 {
-pos = (-81,-190);
+pos = (-58,-190);
 ref = comma;
 }
 );
-width = 0;
+width = 239;
 }
 );
 unicode = 806;

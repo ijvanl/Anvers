@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (256,500);
+pos = (244,500);
 },
 {
 name = top;
-pos = (321,760);
+pos = (308,760);
 }
 );
 background = {
@@ -37,12 +37,12 @@ nodes = (
 layerId = m01;
 shapes = (
 {
-pos = (31,1343);
+angle = 180;
+pos = (572,1343);
 ref = circumflexcomb;
-scale = (1,-1);
 }
 );
-width = 0;
+width = 387;
 }
 );
 unicode = 780;
