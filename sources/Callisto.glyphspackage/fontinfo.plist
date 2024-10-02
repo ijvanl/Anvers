@@ -180,11 +180,11 @@ axesValues = (
 guides = (
 {
 angle = 120;
-pos = (181,275);
+pos = (452,383);
 },
 {
 angle = 210;
-pos = (80,266);
+pos = (452,383);
 }
 );
 id = m01;
@@ -271,6 +271,17 @@ instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+600
+);
+instanceInterpolations = {
+m002 = 0.5;
+m01 = 0.5;
+};
+name = Semibold;
+weightClass = 600;
 },
 {
 axesValues = (
