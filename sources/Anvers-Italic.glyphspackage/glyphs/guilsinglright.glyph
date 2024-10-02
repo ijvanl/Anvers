@@ -1,0 +1,17 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (337,540);
+ref = guilsinglleft;
+}
+);
+width = 327;
+}
+);
+unicode = 8250;
+}

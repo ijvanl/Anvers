@@ -1,0 +1,27 @@
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (182,500);
+},
+{
+name = top;
+pos = (277,883);
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (326,716);
+ref = comma;
+}
+);
+width = 0;
+}
+);
+unicode = 786;
+}

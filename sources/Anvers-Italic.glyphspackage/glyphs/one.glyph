@@ -1,0 +1,15 @@
+{
+glyphname = one;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = one.osf;
+}
+);
+width = 348;
+}
+);
+unicode = 49;
+}

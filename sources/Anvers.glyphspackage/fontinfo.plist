@@ -7,6 +7,12 @@ name = Weight;
 tag = wght;
 }
 );
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2024-10-02 09:21:46 +0000";
 familyName = Anvers;
 featurePrefixes = (
@@ -177,6 +183,40 @@ fontMaster = (
 axesValues = (
 400
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = winAscent;
+value = 1300;
+},
+{
+name = winDescent;
+value = 500;
+}
+);
 guides = (
 {
 angle = 120;
@@ -219,6 +259,40 @@ GSOffsetVertical = 5;
 {
 axesValues = (
 800
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = winAscent;
+value = 1300;
+},
+{
+name = winDescent;
+value = 500;
+}
 );
 guides = (
 {
@@ -329,9 +403,22 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "OFL 1.1";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Anvers Project Authors (https://github.com/ijvanl/anvers)";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 unitsPerEm = 1000;

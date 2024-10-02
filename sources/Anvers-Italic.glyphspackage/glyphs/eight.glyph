@@ -1,0 +1,15 @@
+{
+glyphname = eight;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eight.osf;
+}
+);
+width = 500;
+}
+);
+unicode = 56;
+}

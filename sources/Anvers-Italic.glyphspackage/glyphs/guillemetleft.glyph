@@ -1,0 +1,20 @@
+{
+glyphname = guillemetleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (203,0);
+ref = guilsinglleft;
+},
+{
+pos = (-17,0);
+ref = guilsinglleft;
+}
+);
+width = 530;
+}
+);
+unicode = 171;
+}

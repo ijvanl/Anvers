@@ -1,0 +1,15 @@
+{
+glyphname = five;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = five.osf;
+}
+);
+width = 416;
+}
+);
+unicode = 53;
+}

@@ -1,0 +1,15 @@
+{
+glyphname = four;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = four.osf;
+}
+);
+width = 544;
+}
+);
+unicode = 52;
+}

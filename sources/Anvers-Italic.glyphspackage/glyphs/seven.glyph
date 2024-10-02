@@ -1,0 +1,15 @@
+{
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = seven.osf;
+}
+);
+width = 495;
+}
+);
+unicode = 55;
+}

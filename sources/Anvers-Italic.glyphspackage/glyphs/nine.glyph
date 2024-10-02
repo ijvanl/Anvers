@@ -1,0 +1,15 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = nine.osf;
+}
+);
+width = 560;
+}
+);
+unicode = 57;
+}

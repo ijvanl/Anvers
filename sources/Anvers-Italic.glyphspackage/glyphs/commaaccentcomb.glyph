@@ -1,0 +1,26 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (57,0);
+},
+{
+name = bottom;
+pos = (-32,-357);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (-81,-190);
+ref = comma;
+}
+);
+width = 0;
+}
+);
+unicode = 806;
+}

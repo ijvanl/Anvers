@@ -1,0 +1,29 @@
+{
+glyphname = Eth;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(51,420,l),
+(36,420,o),
+(36,360,o),
+(51,360,c),
+(371,360,l),
+(386,360,o),
+(386,420,o),
+(371,420,c)
+);
+}
+);
+width = 743;
+}
+);
+metricRight = "=D";
+unicode = 208;
+}

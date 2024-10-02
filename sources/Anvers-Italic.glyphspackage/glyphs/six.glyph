@@ -1,0 +1,15 @@
+{
+glyphname = six;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = six.osf;
+}
+);
+width = 600;
+}
+);
+unicode = 54;
+}

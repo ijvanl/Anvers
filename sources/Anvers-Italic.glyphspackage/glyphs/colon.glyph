@@ -1,0 +1,19 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (0,310);
+ref = period;
+}
+);
+width = 303;
+}
+);
+unicode = 58;
+}
