@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_segment.bulge" format="2">
+	<advance width="600"/>
+	<anchor x="50" y="0" name="end"/>
+	<anchor x="0" y="0" name="start"/>
+	<outline>
+		<contour>
+			<point x="0" y="0" type="move"/>
+			<point x="0" y="-15"/>
+			<point x="50" y="-15"/>
+			<point x="50" y="0" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

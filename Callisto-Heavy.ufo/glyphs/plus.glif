@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+	<advance width="622"/>
+	<unicode hex="002B"/>
+	<outline>
+		<contour>
+			<point x="351" y="470" type="line"/>
+			<point x="271" y="470" type="line" name="_corner00"/>
+			<point x="276" y="295" type="line"/>
+			<point x="111" y="300" type="line"/>
+			<point x="111" y="220" type="line" name="_corner02"/>
+			<point x="276" y="225" type="line"/>
+			<point x="271" y="50" type="line"/>
+			<point x="351" y="50" type="line" name="_corner01"/>
+			<point x="346" y="225" type="line"/>
+			<point x="511" y="220" type="line"/>
+			<point x="511" y="300" type="line" name="_corner03"/>
+			<point x="346" y="295" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

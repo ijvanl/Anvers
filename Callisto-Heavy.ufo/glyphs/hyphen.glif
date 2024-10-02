@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="2">
+	<advance width="448"/>
+	<unicode hex="002D"/>
+	<outline>
+		<contour>
+			<point x="77" y="280" type="line"/>
+			<point x="87" y="200" type="line" name="_corner00"/>
+			<point x="372" y="230" type="line"/>
+			<point x="348" y="350" type="line" name="_corner01"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

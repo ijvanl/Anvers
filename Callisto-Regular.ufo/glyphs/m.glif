@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+	<advance width="966"/>
+	<unicode hex="006D"/>
+	<anchor x="490" y="0" name="bottom"/>
+	<anchor x="490" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="127" y="0" type="line" name="_corner07"/>
+			<point x="212" y="0" type="line" name="_corner04"/>
+			<point x="212" y="515" type="line" name="_corner05"/>
+			<point x="182" y="503"/>
+			<point x="158" y="492"/>
+			<point x="127" y="480" type="curve" name="_corner06"/>
+		</contour>
+		<contour>
+			<point x="452" y="0" type="line" name="_corner01"/>
+			<point x="537" y="0" type="line" name="_corner00"/>
+			<point x="537" y="340" type="line" smooth="yes"/>
+			<point x="537" y="424"/>
+			<point x="497" y="511"/>
+			<point x="394" y="511" type="curve" smooth="yes"/>
+			<point x="319" y="511"/>
+			<point x="248" y="459"/>
+			<point x="162" y="381" type="curve"/>
+			<point x="186" y="360" type="line"/>
+			<point x="359" y="493"/>
+			<point x="452" y="426"/>
+			<point x="452" y="300" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="777" y="0" type="line" name="_corner03"/>
+			<point x="857" y="0" type="line" name="_corner02"/>
+			<point x="867" y="340" type="line" smooth="yes"/>
+			<point x="869" y="424"/>
+			<point x="822" y="511"/>
+			<point x="719" y="511" type="curve" smooth="yes"/>
+			<point x="644" y="511"/>
+			<point x="573" y="459"/>
+			<point x="487" y="381" type="curve"/>
+			<point x="511" y="360" type="line"/>
+			<point x="684" y="493"/>
+			<point x="777" y="426"/>
+			<point x="777" y="300" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.GeorgSeifert.ImageExportSettings</key>
+			<dict>
+				<key>path</key>
+				<string>../../../Downloads</string>
+				<key>presets</key>
+				<array>
+					<dict>
+						<key>filename</key>
+						<string>{{{glyph.name}}}</string>
+						<key>format</key>
+						<string>SVG</string>
+						<key>name</key>
+						<string>default</string>
+						<key>size</key>
+						<integer>1050</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{0.7, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{0.7, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>scale</key>
+					<string>{0.7, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>scale</key>
+					<string>{0.7, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner04</string>
+					<key>scale</key>
+					<string>{0.8, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.mitre</string>
+					<key>origin</key>
+					<string>_corner05</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.beak</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner06</string>
+					<key>scale</key>
+					<string>{0.7, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner07</string>
+					<key>scale</key>
+					<string>{0.7, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

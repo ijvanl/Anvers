@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+	<advance width="880"/>
+	<unicode hex="00D8"/>
+	<outline>
+		<component base="O"/>
+		<contour>
+			<point x="773" y="814" type="line" name="_corner01"/>
+			<point x="46" y="1" type="line"/>
+			<point x="107" y="-54" type="line" name="_corner00"/>
+			<point x="834" y="759" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>+10</string>
+		</dict>
+	</lib>
+</glyph>

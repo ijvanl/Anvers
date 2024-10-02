@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+	<advance width="966"/>
+	<outline>
+		<contour>
+			<point x="122" y="0" type="line" name="_corner11"/>
+			<point x="212" y="0" type="line" name="_corner08"/>
+			<point x="212" y="515" type="line" name="_corner09"/>
+			<point x="182" y="505"/>
+			<point x="162" y="500"/>
+			<point x="122" y="490" type="curve" name="_corner10"/>
+		</contour>
+		<contour>
+			<point x="452" y="0" type="line" name="_corner13"/>
+			<point x="542" y="0" type="line" name="_corner12"/>
+			<point x="542" y="330" type="line" smooth="yes"/>
+			<point x="542" y="414"/>
+			<point x="497" y="511"/>
+			<point x="384" y="511" type="curve" smooth="yes"/>
+			<point x="339" y="511"/>
+			<point x="248" y="489"/>
+			<point x="162" y="341" type="curve"/>
+			<point x="205" y="300" type="line"/>
+			<point x="220" y="392"/>
+			<point x="278" y="434"/>
+			<point x="338" y="434" type="curve" smooth="yes"/>
+			<point x="406" y="434"/>
+			<point x="452" y="396"/>
+			<point x="452" y="300" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="782" y="0" type="line" name="_corner15"/>
+			<point x="872" y="0" type="line" name="_corner14"/>
+			<point x="872" y="330" type="line" smooth="yes"/>
+			<point x="872" y="414"/>
+			<point x="827" y="511"/>
+			<point x="714" y="511" type="curve" smooth="yes"/>
+			<point x="669" y="511"/>
+			<point x="578" y="489"/>
+			<point x="492" y="341" type="curve"/>
+			<point x="535" y="300" type="line"/>
+			<point x="550" y="392"/>
+			<point x="608" y="434"/>
+			<point x="668" y="434" type="curve" smooth="yes"/>
+			<point x="736" y="434"/>
+			<point x="782" y="396"/>
+			<point x="782" y="300" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

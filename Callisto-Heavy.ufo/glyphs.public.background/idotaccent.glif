@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotaccent" format="2">
+	<advance width="351"/>
+	<outline>
+		<contour>
+			<point x="171" y="615" type="curve"/>
+			<point x="215" y="635"/>
+			<point x="243" y="682"/>
+			<point x="243" y="713" type="curve"/>
+			<point x="223" y="758"/>
+			<point x="175" y="785"/>
+			<point x="145" y="785" type="curve"/>
+			<point x="101" y="765"/>
+			<point x="73" y="718"/>
+			<point x="73" y="687" type="curve"/>
+			<point x="93" y="642"/>
+			<point x="141" y="615"/>
+		</contour>
+		<contour>
+			<point x="108" y="0" type="line" name="_corner03"/>
+			<point x="233" y="0" type="line" name="_corner00"/>
+			<point x="233" y="515" type="line" name="_corner01"/>
+			<point x="203" y="503"/>
+			<point x="139" y="482"/>
+			<point x="108" y="470" type="curve" name="_corner02"/>
+		</contour>
+	</outline>
+</glyph>

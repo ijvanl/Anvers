@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+	<advance width="759"/>
+	<unicode hex="0056"/>
+	<anchor x="375" y="0" name="bottom"/>
+	<anchor x="375" y="760" name="top"/>
+	<outline>
+		<contour>
+			<point x="340" y="-10" type="line"/>
+			<point x="405" y="-10" type="line"/>
+			<point x="725" y="760" type="line" name="_corner03"/>
+			<point x="640" y="760" type="line" name="_corner00"/>
+			<point x="395" y="109" type="line"/>
+			<point x="145" y="760" type="line" name="_corner01"/>
+			<point x="35" y="760" type="line" name="_corner02"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{0.9, -1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{0.7, 1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>scale</key>
+					<string>{0.6, -1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>scale</key>
+					<string>{0.6, 1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

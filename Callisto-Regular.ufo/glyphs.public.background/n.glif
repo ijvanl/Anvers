@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+	<advance width="641"/>
+	<outline>
+		<contour>
+			<point x="122" y="0" type="line" name="_corner09"/>
+			<point x="212" y="0" type="line" name="_corner06"/>
+			<point x="212" y="515" type="line" name="_corner07"/>
+			<point x="182" y="505"/>
+			<point x="162" y="500"/>
+			<point x="122" y="490" type="curve" name="_corner08"/>
+		</contour>
+	</outline>
+</glyph>

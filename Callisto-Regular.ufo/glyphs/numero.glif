@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="2">
+	<advance width="1372"/>
+	<unicode hex="2116"/>
+	<outline>
+		<component base="N"/>
+		<component base="zero.osf" xOffset="750" yOffset="150"/>
+		<contour>
+			<point x="847" y="80" type="line"/>
+			<point x="847" y="0" type="line" name="_corner00"/>
+			<point x="1307" y="0" type="line"/>
+			<point x="1307" y="80" type="line" name="_corner01"/>
+			<point x="1067" y="60" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>zero.osf</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=zero</string>
+		</dict>
+	</lib>
+</glyph>

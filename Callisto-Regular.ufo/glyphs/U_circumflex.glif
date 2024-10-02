@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ucircumflex" format="2">
+	<advance width="896"/>
+	<unicode hex="00DB"/>
+	<outline>
+		<component base="U"/>
+		<component base="circumflexcomb" xOffset="295" yOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>+10</string>
+		</dict>
+	</lib>
+</glyph>

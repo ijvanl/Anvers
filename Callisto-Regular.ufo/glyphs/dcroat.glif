@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+	<advance width="628"/>
+	<unicode hex="0111"/>
+	<outline>
+		<component base="d"/>
+		<contour>
+			<point x="322" y="650" type="line"/>
+			<point x="322" y="590" type="line" name="_corner00"/>
+			<point x="622" y="590" type="line"/>
+			<point x="622" y="650" type="line" name="_corner01"/>
+			<point x="472" y="645" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

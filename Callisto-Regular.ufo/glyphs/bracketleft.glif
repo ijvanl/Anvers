@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<advance width="361"/>
+	<unicode hex="005B"/>
+	<outline>
+		<contour>
+			<point x="120" y="770" type="line" name="_corner02"/>
+			<point x="120" y="-130" type="line" name="_corner03"/>
+			<point x="210" y="-140" type="line" name="_corner04"/>
+			<point x="210" y="780" type="line" name="_corner05"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serifR</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{1.5, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serifL</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{1.5, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.mitre</string>
+					<key>options</key>
+					<integer>2</integer>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.mitre</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner04</string>
+					<key>scale</key>
+					<string>{-1, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner05</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

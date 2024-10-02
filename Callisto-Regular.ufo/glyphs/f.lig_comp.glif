@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.lig_comp" format="2">
+	<advance width="358"/>
+	<anchor x="179" y="0" name="bottom"/>
+	<anchor x="179" y="800" name="top"/>
+	<outline>
+		<contour>
+			<point x="122" y="517" type="curve" smooth="yes"/>
+			<point x="122" y="0" type="line" name="_corner00"/>
+			<point x="207" y="0" type="line" name="_corner01"/>
+			<point x="207" y="559" type="line" smooth="yes"/>
+			<point x="207" y="695"/>
+			<point x="291" y="805"/>
+			<point x="482" y="680" type="curve"/>
+			<point x="518" y="763" type="line"/>
+			<point x="400" y="877"/>
+			<point x="122" y="786"/>
+		</contour>
+		<contour>
+			<point x="41" y="480" type="line"/>
+			<point x="41" y="430" type="line" name="_corner02"/>
+			<point x="361" y="430" type="line"/>
+			<point x="361" y="490" type="line" name="_corner03"/>
+			<point x="131" y="490" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{0.7, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{1, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

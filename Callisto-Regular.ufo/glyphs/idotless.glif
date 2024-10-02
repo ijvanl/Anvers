@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+	<advance width="321"/>
+	<unicode hex="0131"/>
+	<anchor x="161" y="0" name="bottom"/>
+	<anchor x="274" y="0" name="ogonek"/>
+	<anchor x="123" y="500" name="top"/>
+	<outline>
+		<contour>
+			<point x="113" y="0" type="line" name="_corner03"/>
+			<point x="198" y="0" type="line" name="_corner00"/>
+			<point x="198" y="515" type="line" name="_corner01"/>
+			<point x="168" y="503"/>
+			<point x="144" y="492"/>
+			<point x="113" y="480" type="curve" name="_corner02"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{0.8, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.mitre</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.beak</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>scale</key>
+					<string>{0.7, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>scale</key>
+					<string>{0.7, 1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=i</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=i</string>
+		</dict>
+	</lib>
+</glyph>

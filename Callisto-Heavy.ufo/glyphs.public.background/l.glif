@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="2">
+	<advance width="346"/>
+	<outline>
+		<contour>
+			<point x="153" y="0" type="line" name="_corner03"/>
+			<point x="243" y="0" type="line" name="_corner00"/>
+			<point x="243" y="815" type="line" name="_corner01"/>
+			<point x="213" y="805"/>
+			<point x="193" y="800"/>
+			<point x="153" y="790" type="curve" name="_corner02"/>
+		</contour>
+	</outline>
+</glyph>

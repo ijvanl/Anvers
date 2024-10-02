@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<advance width="622"/>
+	<unicode hex="00F7"/>
+	<outline>
+		<contour>
+			<point x="61" y="305" type="line"/>
+			<point x="61" y="215" type="line" name="_corner00"/>
+			<point x="311" y="220" type="line"/>
+			<point x="561" y="215" type="line"/>
+			<point x="561" y="305" type="line" name="_corner01"/>
+			<point x="311" y="300" type="line"/>
+		</contour>
+		<component base="period" xScale="0.8" yScale="0.8" xOffset="191" yOffset="11"/>
+		<component base="period" xScale="0.8" yScale="0.8" xOffset="191" yOffset="391"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

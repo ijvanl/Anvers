@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_h.liga" format="2">
+	<advance width="986"/>
+	<anchor x="247" y="0" name="bottom_1"/>
+	<anchor x="740" y="0" name="bottom_2"/>
+	<anchor x="493" y="0" name="caret_1"/>
+	<anchor x="247" y="800" name="top_1"/>
+	<anchor x="740" y="800" name="top_2"/>
+	<outline>
+		<component base="f.lig_comp"/>
+		<component base="h" xOffset="358"/>
+	</outline>
+</glyph>

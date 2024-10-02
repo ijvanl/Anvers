@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="2">
+	<advance width="778"/>
+	<outline>
+		<contour>
+			<point x="245" y="288" type="curve"/>
+			<point x="133" y="288" type="line"/>
+			<point x="183" y="-16"/>
+			<point x="521" y="-126"/>
+			<point x="736" y="145" type="curve"/>
+			<point x="701" y="179" type="line"/>
+			<point x="531" y="-20"/>
+			<point x="298" y="60"/>
+		</contour>
+		<contour>
+			<point x="133" y="453" type="curve"/>
+			<point x="236" y="449" type="line"/>
+			<point x="263" y="741"/>
+			<point x="558" y="807"/>
+			<point x="686" y="555" type="curve"/>
+			<point x="721" y="565" type="line"/>
+			<point x="686" y="720" type="line"/>
+			<point x="445" y="847"/>
+			<point x="177" y="714"/>
+		</contour>
+		<contour>
+			<point x="17" y="270" type="line"/>
+			<point x="497" y="270" type="line"/>
+			<point x="507" y="330" type="line"/>
+			<point x="27" y="330" type="line"/>
+		</contour>
+		<contour>
+			<point x="527" y="470" type="line"/>
+			<point x="47" y="470" type="line"/>
+			<point x="37" y="410" type="line"/>
+			<point x="517" y="410" type="line"/>
+		</contour>
+	</outline>
+</glyph>

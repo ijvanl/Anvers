@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="2">
+	<advance width="711"/>
+	<unicode hex="00C9"/>
+	<outline>
+		<component base="E"/>
+		<component base="acutecomb" xOffset="203" yOffset="260"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>+10</string>
+		</dict>
+	</lib>
+</glyph>

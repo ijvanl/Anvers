@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="2">
+	<advance width="905"/>
+	<unicode hex="004E"/>
+	<anchor x="447" y="0" name="bottom"/>
+	<anchor x="447" y="760" name="top"/>
+	<outline>
+		<contour>
+			<point x="682" y="760" type="line" name="_corner01"/>
+			<point x="692" y="170" type="line"/>
+			<point x="213" y="760" type="line"/>
+			<point x="153" y="760" type="line" name="_corner02"/>
+			<point x="153" y="0" type="line" name="_corner03"/>
+			<point x="223" y="0" type="line" name="_corner04"/>
+			<point x="213" y="600" type="line"/>
+			<point x="697" y="-10" type="line"/>
+			<point x="757" y="0" type="line" name="_corner05"/>
+			<point x="752" y="160" type="line"/>
+			<point x="752" y="760" type="line" name="_corner00"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>scale</key>
+					<string>{0.8, 1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{0.8, -1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>scale</key>
+					<string>{0.8, -1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>origin</key>
+					<string>_corner03</string>
+					<key>scale</key>
+					<string>{0.8, 1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.serif</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner04</string>
+					<key>scale</key>
+					<string>{0.8, -1.1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner05</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="2">
+	<advance width="759"/>
+	<unicode hex="0104"/>
+	<outline>
+		<component base="A"/>
+		<component base="ogonekcomb" xOffset="574" yOffset="-9"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>+10</string>
+		</dict>
+	</lib>
+</glyph>

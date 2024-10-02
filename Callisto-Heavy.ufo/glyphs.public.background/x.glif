@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="2">
+	<advance width="545"/>
+	<outline>
+		<contour>
+			<point x="45" y="0" type="line" name="_corner07"/>
+			<point x="130" y="0" type="line" name="_corner00"/>
+			<point x="269" y="189" type="line"/>
+			<point x="398" y="0" type="line" name="_corner01"/>
+			<point x="508" y="0" type="line" name="_corner02"/>
+			<point x="326" y="252" type="line"/>
+			<point x="528" y="490" type="line" name="_corner03"/>
+			<point x="443" y="490" type="line" name="_corner04"/>
+			<point x="298" y="296" type="line"/>
+			<point x="175" y="490" type="line" name="_corner05"/>
+			<point x="65" y="490" type="line" name="_corner06"/>
+			<point x="240" y="231" type="line"/>
+		</contour>
+	</outline>
+</glyph>

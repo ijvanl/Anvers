@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.osf" format="2">
+	<advance width="551"/>
+	<outline>
+		<contour>
+			<point x="78" y="-1" type="curve" smooth="yes"/>
+			<point x="453" y="-1" type="line" name="_corner01"/>
+			<point x="499" y="119" type="line"/>
+			<point x="466" y="143" type="line" name="_corner02"/>
+			<point x="439" y="113"/>
+			<point x="425" y="90"/>
+			<point x="323" y="85" type="curve" smooth="yes"/>
+			<point x="228" y="80" type="line"/>
+			<point x="281" y="105"/>
+			<point x="422" y="198"/>
+			<point x="422" y="319" type="curve" smooth="yes"/>
+			<point x="422" y="432"/>
+			<point x="337" y="510"/>
+			<point x="239" y="510" type="curve" smooth="yes"/>
+			<point x="176" y="510"/>
+			<point x="107" y="477"/>
+			<point x="52" y="401" type="curve"/>
+			<point x="83" y="371" type="line" name="_corner00"/>
+			<point x="125" y="409"/>
+			<point x="164" y="425"/>
+			<point x="198" y="425" type="curve" smooth="yes"/>
+			<point x="287" y="425"/>
+			<point x="323" y="363"/>
+			<point x="327" y="300" type="curve" smooth="yes"/>
+			<point x="335" y="177"/>
+			<point x="187" y="105"/>
+			<point x="68" y="45" type="curve" smooth="yes"/>
+			<point x="54" y="39"/>
+			<point x="63" y="-1"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.corners</key>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner00</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_corner.mitre</string>
+					<key>options</key>
+					<integer>1</integer>
+					<key>origin</key>
+					<string>_corner01</string>
+					<key>scale</key>
+					<string>{1, -1}</string>
+					<key>type</key>
+					<string>Corner</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>_segment.bulge</string>
+					<key>origin</key>
+					<string>_corner02</string>
+					<key>type</key>
+					<string>Segment</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>
