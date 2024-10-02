@@ -1,6 +1,6 @@
 # Callisto
 
-![Callisto](Callisto-1.png)
+![Callisto](documentation/Callisto-1.png)
 
 ## Description
 Callisto is a Garamondesque workhorse serif typeface designed for easy readability over long stretches of small text in print and on-screen. The typeface follows in the footsteps of commonly-used printers' typefaces such as Monotype's [Plantin](https://en.wikipedia.org/wiki/Plantin_(typeface)) and [the various Garamond typefaces](https://en.wikipedia.org/wiki/Garamond), among many others, in its wide apertures, chunky letterforms and pursuit of readability.
