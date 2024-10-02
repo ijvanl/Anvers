@@ -1,10 +1,10 @@
 sources:
-  - Callisto.glyphspackage
+  - Anvers.glyphspackage
 axisOrder:
   - wght
-familyName: Callisto
+familyName: Anvers
 stat:
-  Callisto[wght].ttf:
+  Anvers[wght].ttf:
   - name: Weight
     tag: wght
     values:
@@ -12,7 +12,7 @@ stat:
       value: 400
       linkedValue: 700
       flags: 2
-    - name: Medium
+    - name: Semibold
       value: 550
     - name: Bold
       value: 700

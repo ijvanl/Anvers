@@ -1,4 +1,4 @@
-Copyright 2024 Ishtar van Looy and Callisto contributors (https://github.com/ijvanl/Callisto)
+Copyright 2024 Ishtar van Looy and Anvers contributors (https://github.com/ijvanl/Anvers)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
