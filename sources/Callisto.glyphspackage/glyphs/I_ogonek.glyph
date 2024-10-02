@@ -8,11 +8,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (144,2);
+pos = (124,2);
 ref = ogonekcomb;
 }
 );
-width = 406;
+width = 366;
 },
 {
 layerId = m002;

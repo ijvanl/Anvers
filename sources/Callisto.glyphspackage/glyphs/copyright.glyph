@@ -2,13 +2,6 @@
 glyphname = copyright;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -17,7 +10,9 @@ nodes = (
 (563,35,o),
 (628,57,o),
 (702,115,c),
-(680,155,l),
+(715,122,o),
+(693,162,o),
+(680,155,c),
 (628,129,o),
 (580,116,o),
 (539,116,cs),
@@ -91,13 +86,6 @@ type = Segment;
 width = 1040;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -106,7 +94,9 @@ nodes = (
 (563,35,o),
 (628,57,o),
 (702,115,c),
-(680,175,l),
+(716,120,o),
+(694,180,o),
+(680,175,c),
 (628,149,o),
 (580,136,o),
 (539,136,cs),

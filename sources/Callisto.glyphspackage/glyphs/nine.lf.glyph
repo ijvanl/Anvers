@@ -34,19 +34,14 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(174,-44,l),
+(132,-20,o),
+(163,-54,o),
+(174,-44,c),
 (443,120,o),
 (570,330,o),
 (570,500,cs),
@@ -90,19 +85,14 @@ type = Segment;
 width = 620;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(184,-5,l),
+(131,40,o),
+(172,-14,o),
+(184,-5,c),
 (473,149,o),
 (590,359,o),
 (590,519,cs),

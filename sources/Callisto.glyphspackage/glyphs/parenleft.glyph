@@ -2,18 +2,6 @@
 glyphname = parenleft;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,7);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -22,11 +10,15 @@ nodes = (
 (0,597,o),
 (0,23,o),
 (300,-190,c),
-(325,-160,l),
+(312,-200,o),
+(337,-170,o),
+(325,-160,c),
 (115,23,o),
 (115,597,o),
 (325,780,c),
-(300,810,l)
+(337,790,o),
+(312,820,o),
+(300,810,c)
 );
 }
 );
@@ -47,18 +39,6 @@ type = Segment;
 width = 350;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,7);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -67,11 +47,15 @@ nodes = (
 (10,487,o),
 (10,133,o),
 (290,-180,c),
-(345,-160,l),
+(295,-194,o),
+(350,-174,o),
+(345,-160,c),
 (195,163,o),
 (195,457,o),
 (345,780,c),
-(290,800,l)
+(350,794,o),
+(295,814,o),
+(290,800,c)
 );
 }
 );

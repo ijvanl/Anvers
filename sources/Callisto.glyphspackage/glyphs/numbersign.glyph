@@ -2,83 +2,57 @@
 glyphname = numbersign;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (2,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (2,2);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (3,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (3,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
 (482,735,l),
-(432,745,l),
+(485,750,o),
+(435,760,o),
+(432,745,c),
 (292,-170,l),
-(342,-180,l)
+(289,-185,o),
+(339,-195,o),
+(342,-180,c)
 );
 },
 {
 closed = 1;
 nodes = (
 (82,-170,l),
-(132,-180,l),
+(79,-185,o),
+(129,-195,o),
+(132,-180,c),
 (272,735,l),
-(222,745,l)
+(275,750,o),
+(225,760,o),
+(222,745,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(72,420,l),
+(67,502,o),
+(57,422,o),
+(72,420,c),
 (542,420,l),
-(552,500,l),
+(557,418,o),
+(567,498,o),
+(552,500,c),
 (82,500,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(12,65,l),
+(7,147,o),
+(-3,67,o),
+(12,65,c),
 (482,65,l),
-(492,145,l),
+(497,63,o),
+(507,143,o),
+(492,145,c),
 (22,145,l)
 );
 }
@@ -130,83 +104,57 @@ type = Segment;
 width = 564;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (2,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (2,2);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (3,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (3,2);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
 (512,735,l),
-(432,745,l),
+(514,750,o),
+(434,760,o),
+(432,745,c),
 (292,-170,l),
-(372,-180,l)
+(290,-185,o),
+(370,-195,o),
+(372,-180,c)
 );
 },
 {
 closed = 1;
 nodes = (
 (82,-170,l),
-(162,-180,l),
+(80,-185,o),
+(160,-195,o),
+(162,-180,c),
 (302,735,l),
-(222,745,l)
+(304,750,o),
+(224,760,o),
+(222,745,c)
 );
 },
 {
 closed = 1;
 nodes = (
-(72,390,l),
+(67,501,o),
+(57,391,o),
+(72,390,c),
 (572,390,l),
-(582,500,l),
+(587,389,o),
+(597,499,o),
+(582,500,c),
 (82,500,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(12,65,l),
+(7,176,o),
+(-3,66,o),
+(12,65,c),
 (512,65,l),
-(522,175,l),
+(527,64,o),
+(537,174,o),
+(522,175,c),
 (22,175,l)
 );
 }

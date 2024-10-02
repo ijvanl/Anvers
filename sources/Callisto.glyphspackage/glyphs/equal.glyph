@@ -2,38 +2,18 @@
 glyphname = equal;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,0);
-scale = (-1,-1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,2);
-scale = (-1,-1);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(61,310,l),
+(46,380,o),
+(46,310,o),
+(61,310,c),
 (561,310,l),
-(561,380,l),
+(576,310,o),
+(576,380,o),
+(561,380,c),
 (311,370,l),
 (61,380,l)
 );
@@ -41,9 +21,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(561,210,l),
+(576,140,o),
+(576,210,o),
+(561,210,c),
 (61,210,l),
-(61,140,l),
+(46,210,o),
+(46,140,o),
+(61,140,c),
 (311,150,l),
 (561,140,l)
 );
@@ -78,38 +62,18 @@ type = Segment;
 width = 622;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,0);
-scale = (-1,-1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (1,2);
-scale = (-1,-1);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(61,310,l),
+(46,395,o),
+(46,310,o),
+(61,310,c),
 (561,310,l),
-(561,395,l),
+(576,310,o),
+(576,395,o),
+(561,395,c),
 (311,385,l),
 (61,395,l)
 );
@@ -117,9 +81,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(561,210,l),
+(576,125,o),
+(576,210,o),
+(561,210,c),
 (61,210,l),
-(61,125,l),
+(46,210,o),
+(46,125,o),
+(61,125,c),
 (311,135,l),
 (561,125,l)
 );

@@ -43,24 +43,14 @@ nodes = (
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,13);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(180,-266,l),
+(140,-237,o),
+(168,-275,o),
+(180,-266,c),
 (408,-137,o),
 (530,85,o),
 (530,230,cs),
@@ -73,7 +63,9 @@ nodes = (
 (49,86,o),
 (274,-13,o),
 (424,127,c),
-(427,180,l),
+(439,126,o),
+(442,179,o),
+(427,180,c),
 (307,58,o),
 (147,157,o),
 (147,302,cs),
@@ -103,24 +95,14 @@ type = Segment;
 width = 590;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,13);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(133,-258,l),
+(87,-215,o),
+(121,-266,o),
+(133,-258,c),
 (400,-127,o),
 (537,85,o),
 (537,244,cs),
@@ -133,7 +115,9 @@ nodes = (
 (44,129,o),
 (162,-12,o),
 (373,56,c),
-(382,119,l),
+(388,54,o),
+(397,117,o),
+(382,119,c),
 (240,86,o),
 (176,190,o),
 (176,287,cs),

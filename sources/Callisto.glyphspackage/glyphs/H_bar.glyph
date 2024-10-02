@@ -2,35 +2,22 @@
 glyphname = Hbar;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
-pos = (70,0);
 ref = H;
 },
 {
 closed = 1;
 nodes = (
-(111,520,l,{
+(83,520,l,{
 name = _corner00;
 }),
-(847,520,l),
-(847,570,l,{
+(823,520,l),
+(823,570,l,{
 name = _corner01;
 }),
-(111,570,l)
+(83,570,l)
 );
 }
 );
@@ -48,21 +35,9 @@ type = Segment;
 }
 );
 };
-width = 1036;
+width = 906;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -99,6 +74,7 @@ type = Segment;
 width = 828;
 }
 );
-metricLeft = "+10";
+metricLeft = "=H";
+metricRight = "=H";
 unicode = 294;
 }

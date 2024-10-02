@@ -2,26 +2,18 @@
 glyphname = hyphen;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(87,200,l),
+(62,258,o),
+(72,198,o),
+(87,200,c),
 (372,230,l),
-(358,320,l),
+(387,232,o),
+(373,322,o),
+(358,320,c),
 (77,260,l)
 );
 }
@@ -43,26 +35,18 @@ type = Segment;
 width = 448;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(87,200,l),
+(62,278,o),
+(72,198,o),
+(87,200,c),
 (372,230,l),
-(348,350,l),
+(387,233,o),
+(363,353,o),
+(348,350,c),
 (77,280,l)
 );
 }

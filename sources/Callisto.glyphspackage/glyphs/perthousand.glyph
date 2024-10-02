@@ -2,27 +2,19 @@
 glyphname = perthousand;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
 (850,730,l),
-(795,780,l),
+(860,741,o),
+(805,791,o),
+(795,780,c),
 (95,30,l),
-(150,-20,l)
+(85,19,o),
+(140,-31,o),
+(150,-20,c)
 );
 },
 {
@@ -145,27 +137,19 @@ type = Segment;
 width = 1392;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
 (885,715,l),
-(800,795,l),
+(895,726,o),
+(810,806,o),
+(800,795,c),
 (100,45,l),
-(185,-35,l)
+(90,34,o),
+(175,-46,o),
+(185,-35,c)
 );
 },
 {

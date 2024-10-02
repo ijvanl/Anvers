@@ -2,43 +2,29 @@
 glyphname = plus;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,6);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,9);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(281,490,l),
+(346,505,o),
+(281,505,o),
+(281,490,c),
 (286,285,l),
 (91,290,l),
-(91,225,l),
+(76,290,o),
+(76,225,o),
+(91,225,c),
 (286,230,l),
 (281,25,l),
-(346,25,l),
+(281,10,o),
+(346,10,o),
+(346,25,c),
 (341,230,l),
 (536,225,l),
-(536,290,l),
+(551,225,o),
+(551,290,o),
+(536,290,c),
 (341,285,l),
 (346,490,l)
 );
@@ -71,43 +57,29 @@ type = Segment;
 width = 627;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,6);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,9);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(271,470,l),
+(351,485,o),
+(271,485,o),
+(271,470,c),
 (276,295,l),
 (111,300,l),
-(111,220,l),
+(96,300,o),
+(96,220,o),
+(111,220,c),
 (276,225,l),
 (271,50,l),
-(351,50,l),
+(271,35,o),
+(351,35,o),
+(351,50,c),
 (346,225,l),
 (511,220,l),
-(511,300,l),
+(526,220,o),
+(526,300,o),
+(511,300,c),
 (346,295,l),
 (351,470,l)
 );

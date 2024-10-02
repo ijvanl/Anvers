@@ -42,33 +42,17 @@ name = _corner02;
 }
 );
 };
-hints = (
-{
-name = _segment.bulge;
-origin = (0,16);
-type = Segment;
-},
-{
-name = _corner.mitre;
-options = 1;
-origin = (0,0);
-scale = (1,-1);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(453,-1,l),
+(443,-1,l),
+(457,9,l),
 (499,119,l),
-(466,143,l),
+(508,131,o),
+(475,155,o),
+(466,143,c),
 (439,113,o),
 (425,90,o),
 (323,85,cs),
@@ -82,7 +66,9 @@ nodes = (
 (176,510,o),
 (107,477,o),
 (52,401,c),
-(83,371,l),
+(42,390,o),
+(73,360,o),
+(83,371,c),
 (125,409,o),
 (164,425,o),
 (198,425,cs),
@@ -169,33 +155,17 @@ name = _corner00;
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-options = 1;
-origin = (0,0);
-scale = (0.5,-0.5);
-type = Corner;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,16);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(453,-1,l),
+(443,-1,l),
+(456,9,l),
 (499,139,l),
-(456,163,l),
+(506,152,o),
+(463,176,o),
+(456,163,c),
 (429,133,o),
 (404,118,o),
 (323,105,cs),
@@ -209,7 +179,9 @@ nodes = (
 (176,510,o),
 (107,477,o),
 (52,401,c),
-(93,361,l),
+(42,390,o),
+(83,350,o),
+(93,361,c),
 (119,383,o),
 (148,393,o),
 (180,393,cs),

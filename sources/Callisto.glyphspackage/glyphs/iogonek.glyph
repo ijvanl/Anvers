@@ -8,15 +8,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (8,0);
+pos = (22,0);
 ref = dotaccentcomb;
 },
 {
-pos = (88,-8);
+pos = (102,-8);
 ref = ogonekcomb;
 }
 );
-width = 321;
+width = 335;
 },
 {
 layerId = m002;

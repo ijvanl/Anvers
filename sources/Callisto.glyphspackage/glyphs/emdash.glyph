@@ -2,26 +2,18 @@
 glyphname = emdash;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(91,230,l),
+(76,290,o),
+(76,230,o),
+(91,230,c),
 (780,230,l),
-(780,290,l),
+(795,230,o),
+(795,290,o),
+(780,290,c),
 (91,290,l)
 );
 }
@@ -43,26 +35,18 @@ type = Segment;
 width = 871;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(91,220,l),
+(76,300,o),
+(76,220,o),
+(91,220,c),
 (780,220,l),
-(780,300,l),
+(795,220,o),
+(795,300,o),
+(780,300,c),
 (91,300,l)
 );
 }

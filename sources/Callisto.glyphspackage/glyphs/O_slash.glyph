@@ -2,33 +2,20 @@
 glyphname = Oslash;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
-pos = (46,0);
 ref = O;
 },
 {
 closed = 1;
 nodes = (
-(102,-9,l),
-(143,-44,l,{
+(70,-9,l),
+(111,-44,l,{
 name = _corner00;
 }),
-(870,769,l),
-(829,804,l,{
+(838,769,l),
+(797,804,l,{
 name = _corner01;
 })
 );
@@ -48,35 +35,24 @@ type = Segment;
 }
 );
 };
-width = 1006;
+width = 908;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
+pos = (4,0);
 ref = O;
 },
 {
 closed = 1;
 nodes = (
-(46,1,l),
-(107,-54,l,{
+(50,1,l),
+(111,-54,l,{
 name = _corner00;
 }),
-(834,759,l),
-(773,814,l,{
+(838,759,l),
+(777,814,l,{
 name = _corner01;
 })
 );
@@ -96,9 +72,10 @@ type = Segment;
 }
 );
 };
-width = 880;
+width = 888;
 }
 );
-metricLeft = "+10";
+metricLeft = "=O";
+metricRight = "=O";
 unicode = 216;
 }

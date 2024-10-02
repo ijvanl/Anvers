@@ -2,27 +2,19 @@
 glyphname = percent;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
 (850,730,l),
-(795,780,l),
+(860,741,o),
+(805,791,o),
+(795,780,c),
 (95,30,l),
-(150,-20,l)
+(85,19,o),
+(140,-31,o),
+(150,-20,c)
 );
 },
 {
@@ -111,27 +103,19 @@ type = Segment;
 width = 947;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,3);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
 (865,715,l),
-(780,795,l),
+(875,726,o),
+(790,806,o),
+(780,795,c),
 (80,45,l),
-(165,-35,l)
+(70,34,o),
+(155,-46,o),
+(165,-35,c)
 );
 },
 {

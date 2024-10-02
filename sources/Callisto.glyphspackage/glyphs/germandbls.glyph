@@ -81,24 +81,6 @@ name = _corner02;
 }
 );
 };
-hints = (
-{
-name = _corner.serif;
-origin = (0,13);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,12);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -116,9 +98,20 @@ nodes = (
 (33,454,o),
 (37,430,o),
 (46,430,cs),
-(108,430,l),
-(108,0,l),
-(203,0,l),
+(98,430,l),
+(108,420,l),
+(108,125,l),
+(108,60,o),
+(102,63,o),
+(39,28,c),
+(32,24,o),
+(36,-1,o),
+(45,-1,c),
+(101,-1,o),
+(115,0,o),
+(133,0,c),
+(193,0,l),
+(202,10,l),
 (193,165,l),
 (193,599,ls),
 (193,677,o),
@@ -175,7 +168,7 @@ type = Corner;
 }
 );
 };
-width = 598;
+width = 618;
 },
 {
 anchors = (
@@ -251,25 +244,6 @@ name = _corner05;
 }
 );
 };
-hints = (
-{
-name = _corner.serif;
-origin = (0,13);
-scale = (0.7,1);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,14);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,12);
-scale = (0.3,0.3);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -287,9 +261,20 @@ nodes = (
 (34,453,o),
 (42,390,o),
 (57,390,cs),
-(108,390,l),
-(108,0,l),
-(243,0,l),
+(102,390,l),
+(108,384,l),
+(108,145,l),
+(108,80,o),
+(98,78,o),
+(43,44,c),
+(35,39,o),
+(43,-1,o),
+(52,-1,c),
+(101,-1,o),
+(115,0,o),
+(133,0,c),
+(223,0,l),
+(243,20,l),
 (243,166,l),
 (243,579,ls),
 (243,662,o),

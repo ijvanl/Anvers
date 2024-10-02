@@ -34,13 +34,6 @@ name = _corner00;
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-origin = (0,2);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -48,7 +41,8 @@ closed = 1;
 nodes = (
 (457,220,l),
 (585,220,l),
-(595,320,l),
+(594,310,l),
+(585,319,l),
 (457,305,l),
 (457,600,l),
 (460,760,ls),
@@ -113,13 +107,6 @@ name = _corner01;
 }
 );
 };
-hints = (
-{
-name = _corner.mitre;
-origin = (0,2);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -127,7 +114,8 @@ closed = 1;
 nodes = (
 (507,200,l),
 (595,200,l),
-(605,320,l),
+(603,300,l),
+(585,317,l),
 (507,305,l),
 (507,590,l),
 (510,760,ls),

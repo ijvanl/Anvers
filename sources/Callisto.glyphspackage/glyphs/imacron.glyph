@@ -8,11 +8,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-88,0);
+pos = (-74,0);
 ref = macroncomb;
 }
 );
-width = 321;
+width = 335;
 },
 {
 layerId = m002;

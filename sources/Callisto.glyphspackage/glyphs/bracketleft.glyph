@@ -2,40 +2,35 @@
 glyphname = bracketleft;
 layers = (
 {
-hints = (
-{
-name = _corner.mitre;
-options = 2;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,0);
-type = Corner;
-},
-{
-name = _corner.serif;
-options = 1;
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.serif;
-origin = (0,2);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(120,-130,l),
-(210,-140,l),
-(210,780,l),
-(120,770,l)
+(120,-120,l),
+(130,-131,l),
+(171,-136,l),
+(196,-138,o),
+(215,-142,o),
+(295,-150,c),
+(308,-152,o),
+(317,-128,o),
+(306,-123,c),
+(221,-78,o),
+(210,-80,o),
+(210,-15,c),
+(210,655,l),
+(210,720,o),
+(221,718,o),
+(306,763,c),
+(317,768,o),
+(308,792,o),
+(295,790,c),
+(215,782,o),
+(196,778,o),
+(171,776,c),
+(130,771,l),
+(120,760,l)
 );
 }
 );
@@ -82,40 +77,35 @@ type = Corner;
 width = 361;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-options = 2;
-origin = (0,3);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,0);
-type = Corner;
-},
-{
-name = _corner.serif;
-options = 1;
-origin = (0,1);
-scale = (-1,1);
-type = Corner;
-},
-{
-name = _corner.serif;
-origin = (0,2);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(120,-130,l),
-(240,-140,l),
-(240,780,l),
-(120,770,l)
+(120,-110,l),
+(140,-132,l),
+(200,-137,l),
+(225,-139,o),
+(245,-141,o),
+(315,-147,c),
+(328,-148,o),
+(342,-109,o),
+(331,-103,c),
+(255,-63,o),
+(240,-60,o),
+(240,5,c),
+(240,635,l),
+(240,700,o),
+(255,703,o),
+(331,743,c),
+(342,749,o),
+(328,788,o),
+(315,787,c),
+(245,781,o),
+(225,779,o),
+(200,777,c),
+(140,772,l),
+(120,750,l)
 );
 }
 );

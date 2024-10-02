@@ -2,13 +2,6 @@
 glyphname = at;
 layers = (
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (0,36);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -50,7 +43,8 @@ nodes = (
 (681,51,o),
 (650,69,o),
 (664,134,cs),
-(744,500,l),
+(742,489,l),
+(734,498,l),
 (660,481,l),
 (581,119,ls)
 );
@@ -99,13 +93,6 @@ type = Corner;
 width = 992;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (0,36);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -147,7 +134,8 @@ nodes = (
 (688,51,o),
 (654,69,o),
 (670,134,cs),
-(754,480,l),
+(749,459,l),
+(734,477,l),
 (616,461,l),
 (534,119,ls)
 );

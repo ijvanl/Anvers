@@ -2,20 +2,6 @@
 glyphname = trademark;
 layers = (
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (0,39);
-scale = (0.5,0.5);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,42);
-scale = (0.5,0.5);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -60,10 +46,12 @@ nodes = (
 (375,649,o),
 (402,660,o),
 (401,665,cs),
-(388,765,l),
+(389,760,l),
+(383,765,l),
 (313,760,l),
 (138,760,l),
-(63,765,l)
+(68,765,l),
+(62,760,l)
 );
 },
 {
@@ -152,20 +140,6 @@ type = Corner;
 width = 919;
 },
 {
-hints = (
-{
-name = _corner.mitre;
-origin = (0,39);
-scale = (0.5,0.5);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,42);
-scale = (0.5,0.5);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -210,10 +184,12 @@ nodes = (
 (385,639,o),
 (417,650,o),
 (416,655,cs),
-(403,765,l),
+(404,755,l),
+(393,764,l),
 (323,760,l),
 (138,760,l),
-(58,765,l)
+(68,764,l),
+(57,755,l)
 );
 },
 {

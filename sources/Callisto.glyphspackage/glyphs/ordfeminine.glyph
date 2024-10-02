@@ -2,14 +2,6 @@
 glyphname = ordfeminine;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,14);
-scale = (0.50313,0.50313);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
@@ -29,7 +21,9 @@ nodes = (
 (251,783,o),
 (162,797,o),
 (78,731,c),
-(89,706,l),
+(64,725,o),
+(75,700,o),
+(89,706,c),
 (139,740,o),
 (196,743,o),
 (199,677,cs),
@@ -86,14 +80,6 @@ type = Segment;
 width = 360;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,14);
-scale = (0.50313,0.50313);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
@@ -113,7 +99,9 @@ nodes = (
 (251,783,o),
 (162,797,o),
 (78,731,c),
-(89,706,l),
+(64,725,o),
+(75,700,o),
+(89,706,c),
 (139,740,o),
 (196,743,o),
 (199,677,cs),

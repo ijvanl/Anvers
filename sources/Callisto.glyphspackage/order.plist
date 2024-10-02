@@ -354,10 +354,5 @@ ring,
 tilde,
 macron,
 cedilla,
-ogonek,
-_corner.inktrap,
-_corner.beak,
-_corner.mitre,
-_corner.serif,
-_segment.bulge
+ogonek
 )

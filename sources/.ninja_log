@@ -1,3 +1,21 @@
 # ninja log v5
 4	2145	1727849928050339503	instance_ufos/Callisto-Bold.ufo.json	e6fcf2840d28c077
 3	2148	1727849928056138816	instance_ufos/Callisto-Regular.ufo.json	6249c6bb64aa4842
+1	1683	1727850659545280119	instance_ufos/Callisto-Bold.ufo.json	e6fcf2840d28c077
+1	1747	1727850659611122343	instance_ufos/Callisto-Regular.ufo.json	6249c6bb64aa4842
+1	1987	1727850659884413159	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp1b_8cb44	2e1c8eb49d4da152
+1683	3519	1727850661432385399	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpa4hzlx2f	f92309eba8bc0a8f
+1747	3590	1727850661501745327	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp426vhslr	9cd0349562c85ecd
+1987	4640	1727850662479686480	../fonts/variable/Callisto[wght].ttf	f12362a072139779
+1684	4715	1727850662578305258	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmp7b6_c5n4	6faf49de3a392c6c
+1747	4715	1727850662576057856	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpql1ayhvp	6e9eb12ec0c10303
+4640	5858	1727850663928040925	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpsp6wxdjy.buildStatstamp	7cf375b2343fc132
+3590	6133	1727850663952164778	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpowtsjprk	2fab2c08c347bd2a
+3519	6138	1727850663952005699	/var/folders/gq/g2r9xykn4dd7hy3_gdvvc69r0000gn/T/tmpyumbjo8r	89fde747827a006c
+4715	7086	1727850664784906405	../fonts/otf/Callisto-Regular.otf	e6379d622f0d037
+4640	7142	1727850664991930090	../fonts/webfonts/Callisto[wght].woff2	1d6638da46952ed1
+4715	7180	1727850664800825339	../fonts/otf/Callisto-Bold.otf	78078e2b76002e76
+6133	8172	1727850666013282864	../fonts/ttf/Callisto-Regular.ttf	411b246b39ce40b1
+6138	8213	1727850666055692051	../fonts/ttf/Callisto-Bold.ttf	a98da318de376719
+8172	9176	1727850667105245117	../fonts/webfonts/Callisto-Regular.woff2	b4aaa685af6d1aa6
+8213	9177	1727850667109505594	../fonts/webfonts/Callisto-Bold.woff2	ff3e2ce20bc77c7e

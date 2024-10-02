@@ -2,26 +2,18 @@
 glyphname = bar;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(100,760,l),
+(160,775,o),
+(100,775,o),
+(100,760,c),
 (100,-250,l),
-(160,-250,l),
+(100,-265,o),
+(160,-265,o),
+(160,-250,c),
 (160,760,l)
 );
 }
@@ -43,26 +35,18 @@ type = Segment;
 width = 260;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,0);
-type = Segment;
-},
-{
-name = _segment.bulge;
-origin = (0,2);
-type = Segment;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
-(100,760,l),
+(180,775,o),
+(100,775,o),
+(100,760,c),
 (100,-250,l),
-(180,-250,l),
+(100,-265,o),
+(180,-265,o),
+(180,-250,c),
 (180,760,l)
 );
 }

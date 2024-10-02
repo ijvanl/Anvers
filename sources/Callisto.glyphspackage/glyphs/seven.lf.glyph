@@ -2,41 +2,26 @@
 glyphname = seven.lf;
 layers = (
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _corner.mitre;
-origin = (0,10);
-type = Corner;
-},
-{
-name = _corner.mitre;
-options = 1;
-origin = (0,6);
-scale = (2,2);
-type = Corner;
-}
-);
 layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
 (50,580,l),
-(90,571,l),
+(47,565,o),
+(87,556,o),
+(90,571,c),
 (132,663,o),
 (139,665,o),
 (241,665,cs),
 (441,665,l),
-(159,0,l),
+(167,18,l),
+(181,0,l),
 (277,0,l),
 (510,725,l),
 (495,760,l),
-(91,760,l)
+(101,760,l),
+(89,750,l)
 );
 }
 );
@@ -64,41 +49,26 @@ type = Corner;
 width = 560;
 },
 {
-hints = (
-{
-name = _segment.bulge;
-origin = (0,1);
-type = Segment;
-},
-{
-name = _corner.mitre;
-options = 1;
-origin = (0,6);
-scale = (2,2);
-type = Corner;
-},
-{
-name = _corner.mitre;
-origin = (0,10);
-type = Corner;
-}
-);
 layerId = m002;
 shapes = (
 {
 closed = 1;
 nodes = (
 (50,585,l),
-(110,571,l),
+(47,570,o),
+(107,556,o),
+(110,571,c),
 (142,633,o),
 (174,631,o),
 (276,635,cs),
 (400,640,l),
-(123,0,l),
+(139,37,l),
+(167,0,l),
 (311,0,l),
 (505,735,l),
 (490,760,l),
-(86,760,l)
+(106,760,l),
+(82,740,l)
 );
 }
 );
