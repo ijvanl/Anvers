@@ -274,11 +274,11 @@ name = Regular;
 },
 {
 axesValues = (
-600
+550
 );
 instanceInterpolations = {
-m002 = 0.5;
-m01 = 0.5;
+m002 = 0.375;
+m01 = 0.625;
 };
 name = Semibold;
 weightClass = 600;
