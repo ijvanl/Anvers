@@ -11,6 +11,17 @@ ref = guilsinglleft;
 }
 );
 width = 327;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (337,540);
+ref = guilsinglleft;
+}
+);
+width = 327;
 }
 );
 unicode = 8250;

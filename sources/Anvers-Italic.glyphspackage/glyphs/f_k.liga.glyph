@@ -35,6 +35,41 @@ ref = k;
 }
 );
 width = 882;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (170,0);
+},
+{
+name = bottom_2;
+pos = (635,0);
+},
+{
+name = caret_1;
+pos = (464.5,0);
+},
+{
+name = top_1;
+pos = (369,800);
+},
+{
+name = top_2;
+pos = (834,800);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = f.lig_comp;
+},
+{
+pos = (358,0);
+ref = k;
+}
+);
+width = 882;
 }
 );
 }

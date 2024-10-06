@@ -1,8 +1,18 @@
 {
 .appVersion = "3134";
 .formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Italic;
+tag = ital;
+}
+);
 date = "2022-12-10 00:44:05 +0000";
-familyName = Callisto;
+familyName = Anvers;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
@@ -235,6 +245,10 @@ tag = mkmk;
 );
 fontMaster = (
 {
+axesValues = (
+400,
+1
+);
 guides = (
 {
 angle = 50;
@@ -276,21 +290,69 @@ GSOffsetHorizontal = 5;
 GSOffsetPosition = 0;
 GSOffsetVertical = 5;
 };
+},
+{
+axesValues = (
+700,
+1
+);
+guides = (
+{
+angle = -40;
+pos = (380,193);
+},
+{
+angle = 76;
+pos = (125,240);
+}
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+},
+{
+pos = 14;
+}
+);
+name = "Bold Italic";
+userData = {
+GSOffsetHorizontal = 5;
+GSOffsetPosition = 0;
+GSOffsetVertical = 5;
+};
 }
 );
 instances = (
 {
+axesValues = (
+0,
+0
+);
 instanceInterpolations = {
-m01 = 1;
+m002 = -1.33333;
+m01 = 2.33333;
 };
 isItalic = 1;
+linkStyle = Regular;
 name = Italic;
-properties = (
-{
-key = postscriptFontName;
-value = "Callisto-Italic";
-}
-);
 }
 );
 metrics = (
@@ -315,6 +377,10 @@ type = "italic angle";
 );
 unitsPerEm = 1000;
 userData = {
+GSDimensionPlugin.Dimensions = {
+m002 = {
+};
+};
 UFO.lib = {
 public.postscriptNames = {
 Germandbls = uni1E9E;

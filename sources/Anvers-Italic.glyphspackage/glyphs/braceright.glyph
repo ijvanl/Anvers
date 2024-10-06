@@ -11,6 +11,17 @@ ref = braceleft;
 }
 );
 width = 396;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (429,630);
+ref = braceleft;
+}
+);
+width = 396;
 }
 );
 unicode = 125;

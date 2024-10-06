@@ -9,6 +9,15 @@ ref = zero.osf;
 }
 );
 width = 622;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = zero.osf;
+}
+);
+width = 622;
 }
 );
 unicode = 48;

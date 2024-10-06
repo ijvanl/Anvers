@@ -10,6 +10,16 @@ ref = period;
 }
 );
 width = 303;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,190);
+ref = period;
+}
+);
+width = 303;
 }
 );
 unicode = 183;
