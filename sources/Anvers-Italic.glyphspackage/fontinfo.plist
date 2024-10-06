@@ -299,7 +299,50 @@ axesValues = (
 guides = (
 {
 angle = -40;
-pos = (380,193);
+pos = (305,193);
+},
+{
+angle = 76;
+pos = (125,240);
+}
+);
+iconName = SemiBold;
+id = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+},
+{
+pos = 14;
+}
+);
+name = "Bold Italic";
+},
+{
+axesValues = (
+900,
+1
+);
+guides = (
+{
+angle = -40;
+pos = (305,193);
 },
 {
 angle = 76;
@@ -332,7 +375,7 @@ pos = -250;
 pos = 14;
 }
 );
-name = "Bold Italic";
+name = "Heavy Italic";
 userData = {
 GSOffsetHorizontal = 5;
 GSOffsetPosition = 0;
@@ -343,16 +386,29 @@ GSOffsetVertical = 5;
 instances = (
 {
 axesValues = (
-0,
-0
+400,
+1
 );
 instanceInterpolations = {
-m002 = -1.33333;
-m01 = 2.33333;
+m01 = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
+},
+{
+axesValues = (
+700,
+1
+);
+instanceInterpolations = {
+"6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C" = 1;
+};
+isBold = 1;
+isItalic = 1;
+linkStyle = Regular;
+name = "Bold Italic";
+weightClass = 700;
 }
 );
 metrics = (

@@ -86,6 +86,28 @@ ref = circumflexcomb;
 }
 );
 width = 387;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (244,500);
+},
+{
+name = top;
+pos = (308,760);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (572,1343);
+ref = circumflexcomb;
+}
+);
+width = 387;
 }
 );
 unicode = 780;

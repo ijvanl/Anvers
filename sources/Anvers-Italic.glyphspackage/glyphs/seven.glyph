@@ -18,6 +18,16 @@ ref = seven.osf;
 }
 );
 width = 495;
+},
+{
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+ref = seven.osf;
+}
+);
+width = 495;
 }
 );
 unicode = 55;

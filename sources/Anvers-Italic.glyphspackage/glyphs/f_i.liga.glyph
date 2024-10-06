@@ -214,6 +214,43 @@ ref = idotless;
 }
 );
 width = 645;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (93,0);
+},
+{
+name = bottom_2;
+pos = (403,0);
+},
+{
+name = caret_1;
+pos = (310,0);
+},
+{
+name = top_1;
+pos = (292,800);
+},
+{
+name = top_2;
+pos = (602,800);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+ref = f;
+},
+{
+alignment = -1;
+pos = (383,0);
+ref = idotless;
+}
+);
+width = 645;
 }
 );
 }

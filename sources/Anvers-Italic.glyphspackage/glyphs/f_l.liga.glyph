@@ -70,6 +70,43 @@ ref = l;
 }
 );
 width = 650;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (96,0);
+},
+{
+name = bottom_2;
+pos = (411,0);
+},
+{
+name = caret_1;
+pos = (315,0);
+},
+{
+name = top_1;
+pos = (295,800);
+},
+{
+name = top_2;
+pos = (610,800);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+ref = f.lig_comp;
+},
+{
+alignment = -1;
+pos = (358,0);
+ref = l;
+}
+);
+width = 650;
 }
 );
 }

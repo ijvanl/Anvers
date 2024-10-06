@@ -214,6 +214,41 @@ ref = jdotless;
 }
 );
 width = 669;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (99,0);
+},
+{
+name = bottom_2;
+pos = (421,0);
+},
+{
+name = caret_1;
+pos = (322,0);
+},
+{
+name = top_1;
+pos = (298,800);
+},
+{
+name = top_2;
+pos = (620,800);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (383,0);
+ref = jdotless;
+}
+);
+width = 669;
 }
 );
 metricLeft = "=f";

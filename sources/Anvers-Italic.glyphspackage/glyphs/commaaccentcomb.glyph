@@ -40,6 +40,27 @@ ref = comma;
 }
 );
 width = 239;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (57,0);
+},
+{
+name = bottom;
+pos = (-32,-357);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+pos = (-58,-190);
+ref = comma;
+}
+);
+width = 239;
 }
 );
 unicode = 806;

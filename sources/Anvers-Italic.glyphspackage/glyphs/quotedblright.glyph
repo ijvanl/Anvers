@@ -28,6 +28,22 @@ ref = quoteright;
 }
 );
 width = 420;
+},
+{
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+pos = (356,0);
+ref = quoteright;
+},
+{
+alignment = -1;
+pos = (166,0);
+ref = quoteright;
+}
+);
+width = 420;
 }
 );
 unicode = 8221;

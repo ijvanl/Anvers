@@ -42,6 +42,28 @@ scale = (-1,1);
 }
 );
 width = 325;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (225,500);
+},
+{
+name = top;
+pos = (293,774);
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+pos = (504,0);
+ref = acutecomb;
+scale = (-1,1);
+}
+);
+width = 325;
 }
 );
 unicode = 768;

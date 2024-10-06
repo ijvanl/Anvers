@@ -18,6 +18,16 @@ ref = brevecomb;
 }
 );
 width = 462;
+},
+{
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+alignment = -1;
+ref = brevecomb;
+}
+);
+width = 462;
 }
 );
 unicode = 728;

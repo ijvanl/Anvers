@@ -49,6 +49,30 @@ nodes = (
 }
 );
 width = 600;
+},
+{
+anchors = (
+{
+name = end;
+pos = (50,0);
+},
+{
+name = start;
+}
+);
+layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
+shapes = (
+{
+closed = 0;
+nodes = (
+(0,0,l),
+(0,-15,o),
+(50,-15,o),
+(50,0,c)
+);
+}
+);
+width = 600;
 }
 );
 }
