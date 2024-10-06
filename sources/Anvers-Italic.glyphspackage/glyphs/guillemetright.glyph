@@ -16,20 +16,6 @@ ref = guilsinglright;
 width = 581;
 },
 {
-layerId = m002;
-shapes = (
-{
-pos = (254,0);
-ref = guilsinglright;
-},
-{
-pos = (34,0);
-ref = guilsinglright;
-}
-);
-width = 581;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

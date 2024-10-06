@@ -252,7 +252,7 @@ axesValues = (
 guides = (
 {
 angle = 50;
-pos = (380,193);
+pos = (380,203);
 },
 {
 angle = 76;
@@ -333,54 +333,6 @@ pos = 14;
 }
 );
 name = "Bold Italic";
-},
-{
-axesValues = (
-900,
-1
-);
-guides = (
-{
-angle = -40;
-pos = (305,193);
-},
-{
-angle = 76;
-pos = (125,240);
-}
-);
-iconName = Bold;
-id = m002;
-metricValues = (
-{
-over = 10;
-pos = 800;
-},
-{
-over = 10;
-pos = 760;
-},
-{
-over = 10;
-pos = 500;
-},
-{
-over = -10;
-},
-{
-over = -10;
-pos = -250;
-},
-{
-pos = 14;
-}
-);
-name = "Heavy Italic";
-userData = {
-GSOffsetHorizontal = 5;
-GSOffsetPosition = 0;
-GSOffsetVertical = 5;
-};
 }
 );
 instances = (

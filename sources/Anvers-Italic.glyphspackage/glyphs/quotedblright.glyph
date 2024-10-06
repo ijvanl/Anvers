@@ -16,20 +16,6 @@ ref = quoteright;
 width = 420;
 },
 {
-layerId = m002;
-shapes = (
-{
-pos = (356,0);
-ref = quoteright;
-},
-{
-pos = (166,0);
-ref = quoteright;
-}
-);
-width = 420;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

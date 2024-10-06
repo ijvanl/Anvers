@@ -13,17 +13,6 @@ ref = question;
 width = 466;
 },
 {
-layerId = m002;
-shapes = (
-{
-angle = 180;
-pos = (466,500);
-ref = question;
-}
-);
-width = 466;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

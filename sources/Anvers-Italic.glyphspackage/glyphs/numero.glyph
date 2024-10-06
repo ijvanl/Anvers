@@ -30,34 +30,6 @@ nodes = (
 width = 1341;
 },
 {
-layerId = m002;
-shapes = (
-{
-ref = N;
-},
-{
-alignment = -1;
-pos = (750,150);
-ref = zero.osf;
-},
-{
-closed = 1;
-nodes = (
-(752,80,o),
-(752,0,o),
-(767,0,c),
-(1227,0,l),
-(1242,0,o),
-(1242,80,o),
-(1227,80,c),
-(987,60,l),
-(767,80,l)
-);
-}
-);
-width = 1341;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

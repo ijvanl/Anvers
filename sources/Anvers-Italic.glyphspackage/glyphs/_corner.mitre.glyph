@@ -16,19 +16,6 @@ nodes = (
 width = 600;
 },
 {
-layerId = m002;
-shapes = (
-{
-closed = 0;
-nodes = (
-(10,0,l),
-(0,10,l)
-);
-}
-);
-width = 600;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

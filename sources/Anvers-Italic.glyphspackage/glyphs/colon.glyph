@@ -15,19 +15,6 @@ ref = period;
 width = 303;
 },
 {
-layerId = m002;
-shapes = (
-{
-ref = period;
-},
-{
-pos = (0,310);
-ref = period;
-}
-);
-width = 303;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

@@ -11,15 +11,6 @@ ref = ringcomb;
 width = 380;
 },
 {
-layerId = m002;
-shapes = (
-{
-ref = ringcomb;
-}
-);
-width = 380;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {

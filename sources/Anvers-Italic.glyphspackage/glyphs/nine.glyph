@@ -11,15 +11,6 @@ ref = nine.osf;
 width = 560;
 },
 {
-layerId = m002;
-shapes = (
-{
-ref = nine.osf;
-}
-);
-width = 560;
-},
-{
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
 shapes = (
 {
