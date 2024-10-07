@@ -299,7 +299,7 @@ axesValues = (
 guides = (
 {
 angle = -40;
-pos = (305,193);
+pos = (489,665);
 },
 {
 angle = 76;
@@ -333,6 +333,48 @@ pos = 14;
 }
 );
 name = "Bold Italic";
+},
+{
+axesValues = (
+800,
+1
+);
+guides = (
+{
+angle = -40;
+pos = (489,665);
+},
+{
+angle = 76;
+pos = (125,240);
+}
+);
+id = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+},
+{
+pos = 14;
+}
+);
+name = "Heavy Italic";
 }
 );
 instances = (
@@ -361,6 +403,17 @@ isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
 weightClass = 700;
+},
+{
+axesValues = (
+800,
+1
+);
+instanceInterpolations = {
+"ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5" = 1;
+};
+name = "Heavy Italic";
+weightClass = 800;
 }
 );
 metrics = (

@@ -8,7 +8,7 @@ shapes = (
 ref = three.osf;
 }
 );
-width = 454;
+width = 443;
 },
 {
 layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
@@ -19,6 +19,16 @@ ref = three.osf;
 }
 );
 width = 454;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+alignment = -1;
+ref = three.osf;
+}
+);
+width = 457.66667;
 }
 );
 unicode = 51;

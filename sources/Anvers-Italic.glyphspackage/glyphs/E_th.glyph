@@ -45,6 +45,29 @@ nodes = (
 }
 );
 width = 773;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+alignment = -1;
+ref = D;
+},
+{
+closed = 1;
+nodes = (
+(67,436,l),
+(52,436,o),
+(36,360,o),
+(51,360,c),
+(371,360,l),
+(386,360,o),
+(402,436,o),
+(387,436,c)
+);
+}
+);
+width = 783;
 }
 );
 metricRight = "=D";

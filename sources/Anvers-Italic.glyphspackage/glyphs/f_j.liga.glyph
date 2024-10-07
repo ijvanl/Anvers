@@ -137,11 +137,46 @@ shapes = (
 ref = f;
 },
 {
-pos = (383,0);
+pos = (374,0);
 ref = jdotless;
 }
 );
-width = 669;
+width = 660;
+},
+{
+anchors = (
+{
+name = bottom_1;
+pos = (99,0);
+},
+{
+name = bottom_2;
+pos = (421,0);
+},
+{
+name = caret_1;
+pos = (322,0);
+},
+{
+name = top_1;
+pos = (298,800);
+},
+{
+name = top_2;
+pos = (620,800);
+}
+);
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+ref = f;
+},
+{
+pos = (389,0);
+ref = jdotless;
+}
+);
+width = 675;
 }
 );
 metricLeft = "=f";

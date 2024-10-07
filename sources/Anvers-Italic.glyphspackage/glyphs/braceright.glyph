@@ -23,6 +23,18 @@ ref = braceleft;
 }
 );
 width = 396;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (429,630);
+ref = braceleft;
+}
+);
+width = 396;
 }
 );
 unicode = 125;

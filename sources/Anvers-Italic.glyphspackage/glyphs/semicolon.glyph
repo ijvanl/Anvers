@@ -32,6 +32,23 @@ ref = comma;
 }
 );
 width = 305;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+alignment = -1;
+pos = (0,310);
+ref = period;
+scale = (0.95,0.95);
+},
+{
+alignment = -1;
+pos = (10,0);
+ref = comma;
+}
+);
+width = 305;
 }
 );
 unicode = 59;

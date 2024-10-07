@@ -65,6 +65,7 @@ x,
 y,
 z,
 f.lig_comp,
+p.001,
 f_b.liga,
 f_h.liga,
 f_i.liga,
@@ -201,8 +202,5 @@ tilde,
 macron,
 cedilla,
 ogonek,
-_corner.beak,
-_corner.mitre,
-_corner.serif,
-_segment.bulge
+_corner.mitre
 )

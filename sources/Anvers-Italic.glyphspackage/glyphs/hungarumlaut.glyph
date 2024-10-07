@@ -19,6 +19,16 @@ ref = hungarumlautcomb;
 }
 );
 width = 417;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+alignment = -1;
+ref = hungarumlautcomb;
+}
+);
+width = 417;
 }
 );
 unicode = 733;

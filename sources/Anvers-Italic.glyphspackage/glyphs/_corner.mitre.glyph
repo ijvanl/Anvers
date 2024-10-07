@@ -8,8 +8,8 @@ shapes = (
 {
 closed = 0;
 nodes = (
-(10,0,l),
-(0,10,l)
+(10,-10,l),
+(-10,10,l)
 );
 }
 );
@@ -23,6 +23,19 @@ closed = 0;
 nodes = (
 (10,0,l),
 (0,10,l)
+);
+}
+);
+width = 600;
+},
+{
+layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,3,l),
+(3,10,l)
 );
 }
 );
