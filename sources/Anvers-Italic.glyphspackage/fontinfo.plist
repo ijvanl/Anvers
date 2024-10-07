@@ -95,152 +95,67 @@ sub Q by Q.ss01;
 tag = ss01;
 },
 {
-code = "	lookup mark_DFLT {
-		pos base numero  <anchor 342 0> mark @mark_bottom <anchor 531 760> mark @mark_top;
-	} mark_DFLT;
-	lookup mark_grek {
-		pos base alpha  <anchor 202 0> mark @mark_bottom <anchor 431 10> mark @mark_ogonek <anchor 236 500> mark @mark_top;
-	} mark_grek;
-	lookup mark_latn {
-		pos base A  <anchor 262 0> mark @mark_bottom <anchor 544 10> mark @mark_ogonek <anchor 451 760> mark @mark_top;
-		pos base AE  <anchor 533 0> mark @mark_bottom <anchor 722 760> mark @mark_top;
-		pos base B  <anchor 291 0> mark @mark_bottom <anchor 480 760> mark @mark_top;
-		pos base C  <anchor 330 0> mark @mark_bottom <anchor 519 760> mark @mark_top;
-		pos base D  <anchor 310 0> mark @mark_bottom <anchor 499 760> mark @mark_top;
-		pos base Eth  <anchor 310 0> mark @mark_bottom <anchor 499 760> mark @mark_top;
-		pos base E  <anchor 269 0> mark @mark_bottom <anchor 536 10> mark @mark_ogonek <anchor 458 760> mark @mark_top;
-		pos base F  <anchor 254 0> mark @mark_bottom <anchor 443 760> mark @mark_top;
-		pos base G  <anchor 299 0> mark @mark_bottom <anchor 488 760> mark @mark_top;
-		pos base H  <anchor 347 0> mark @mark_bottom <anchor 536 760> mark @mark_top;
-		pos base I  <anchor 97 0> mark @mark_bottom <anchor 226 10> mark @mark_ogonek <anchor 286 760> mark @mark_top;
-		pos base J  <anchor 97 0> mark @mark_bottom <anchor 286 760> mark @mark_top;
-		pos base K  <anchor 297 0> mark @mark_bottom <anchor 486 760> mark @mark_top;
-		pos base L  <anchor 259 0> mark @mark_bottom <anchor 448 760> mark @mark_top <anchor 749 760> mark @mark_topright;
-		pos base M  <anchor 437 0> mark @mark_bottom <anchor 626 760> mark @mark_top;
-		pos base N  <anchor 342 0> mark @mark_bottom <anchor 531 760> mark @mark_top;
-		pos base O  <anchor 345 0> mark @mark_bottom <anchor 673 10> mark @mark_ogonek <anchor 534 760> mark @mark_top <anchor 921 760> mark @mark_topright;
-		pos base OE  <anchor 473 0> mark @mark_bottom <anchor 662 760> mark @mark_top;
-		pos base P  <anchor 253 0> mark @mark_bottom <anchor 442 760> mark @mark_top;
-		pos base Thorn  <anchor 253 0> mark @mark_bottom <anchor 442 760> mark @mark_top;
-		pos base Q  <anchor 378 0> mark @mark_bottom <anchor 567 760> mark @mark_top;
-		pos base R  <anchor 280 0> mark @mark_bottom <anchor 469 760> mark @mark_top;
-		pos base S  <anchor 230 0> mark @mark_bottom <anchor 419 760> mark @mark_top;
-		pos base Germandbls  <anchor 357 0> mark @mark_bottom <anchor 546 760> mark @mark_top;
-		pos base T  <anchor 329 0> mark @mark_bottom <anchor 518 760> mark @mark_top;
-		pos base U  <anchor 346 0> mark @mark_bottom <anchor 674 10> mark @mark_ogonek <anchor 535 760> mark @mark_top <anchor 923 760> mark @mark_topright;
-		pos base V  <anchor 321 0> mark @mark_bottom <anchor 510 760> mark @mark_top;
-		pos base W  <anchor 473 0> mark @mark_bottom <anchor 662 760> mark @mark_top;
-		pos base X  <anchor 321 0> mark @mark_bottom <anchor 510 760> mark @mark_top;
-		pos base Y  <anchor 291 0> mark @mark_bottom <anchor 480 760> mark @mark_top;
-		pos base Z  <anchor 303 0> mark @mark_bottom <anchor 492 760> mark @mark_top;
-		pos base Q.ss01  <anchor 378 0> mark @mark_bottom <anchor 567 760> mark @mark_top;
-		pos base a  <anchor 202 0> mark @mark_bottom <anchor 431 10> mark @mark_ogonek <anchor 326 500> mark @mark_top;
-		pos base ae  <anchor 291 0> mark @mark_bottom <anchor 415 500> mark @mark_top;
-		pos base b  <anchor 189 0> mark @mark_bottom <anchor 313 500> mark @mark_top;
-		pos base c  <anchor 170 0> mark @mark_bottom <anchor 294 500> mark @mark_top;
-		pos base d  <anchor 222 0> mark @mark_bottom <anchor 421 800> mark @mark_top <anchor 685 800> mark @mark_topright;
-		pos base eth  <anchor 217 0> mark @mark_bottom <anchor 416 800> mark @mark_top;
-		pos base e  <anchor 165 0> mark @mark_bottom <anchor 343 10> mark @mark_ogonek <anchor 289 500> mark @mark_top;
-		pos base f  <anchor 140 0> mark @mark_bottom <anchor 339 800> mark @mark_top;
-		pos base g  <anchor 153 -250> mark @mark_bottom <anchor 340 500> mark @mark_top;
-		pos base h  <anchor 214 0> mark @mark_bottom <anchor 413 800> mark @mark_top;
-		pos base i  <anchor 84 0> mark @mark_bottom;
-		pos base idotless  <anchor 69 0> mark @mark_bottom <anchor 176 10> mark @mark_ogonek <anchor 193 500> mark @mark_top;
-		pos base jdotless  <anchor 18 -250> mark @mark_bottom <anchor 205 500> mark @mark_top;
-		pos base k  <anchor 234 0> mark @mark_bottom <anchor 433 800> mark @mark_top;
-		pos base l  <anchor 85 0> mark @mark_bottom <anchor 284 800> mark @mark_top <anchor 400 800> mark @mark_topright;
-		pos base m  <anchor 366 0> mark @mark_bottom <anchor 490 500> mark @mark_top;
-		pos base n  <anchor 236 0> mark @mark_bottom <anchor 360 500> mark @mark_top;
-		pos base o  <anchor 198 0> mark @mark_bottom <anchor 414 10> mark @mark_ogonek <anchor 322 500> mark @mark_top <anchor 570 500> mark @mark_topright;
-		pos base oe  <anchor 320 0> mark @mark_bottom <anchor 444 500> mark @mark_top;
-		pos base p  <anchor 181 0> mark @mark_bottom <anchor 305 500> mark @mark_top;
-		pos base thorn  <anchor 205 0> mark @mark_bottom <anchor 329 500> mark @mark_top;
-		pos base q  <anchor 209 0> mark @mark_bottom <anchor 333 500> mark @mark_top;
-		pos base r  <anchor 166 0> mark @mark_bottom <anchor 290 500> mark @mark_top;
-		pos base s  <anchor 117 0> mark @mark_bottom <anchor 241 500> mark @mark_top;
-		pos base germandbls  <anchor 226 0> mark @mark_bottom <anchor 425 800> mark @mark_top;
-		pos base t  <anchor 106 0> mark @mark_bottom <anchor 230 500> mark @mark_top <anchor 462 800> mark @mark_topright;
-		pos base u  <anchor 222 0> mark @mark_bottom <anchor 477 10> mark @mark_ogonek <anchor 346 500> mark @mark_top <anchor 642 500> mark @mark_topright;
-		pos base v  <anchor 197 0> mark @mark_bottom <anchor 321 500> mark @mark_top;
-		pos base w  <anchor 317 0> mark @mark_bottom <anchor 441 500> mark @mark_top;
-		pos base x  <anchor 203 0> mark @mark_bottom <anchor 327 500> mark @mark_top;
-		pos base y  <anchor 231 0> mark @mark_bottom <anchor 355 500> mark @mark_top;
-		pos base z  <anchor 187 0> mark @mark_bottom <anchor 311 500> mark @mark_top;
-		pos base f.lig_comp  <anchor 117 0> mark @mark_bottom <anchor 316 800> mark @mark_top;
-	} mark_latn;
-	lookup mark_latn_mark2Liga {
-		pos ligature f_b.liga
-			<anchor 153 0> mark @mark_bottom
-			<anchor 352 800> mark @mark_top
-			ligComponent
-			<anchor 584 0> mark @mark_bottom
-			<anchor 783 800> mark @mark_top
-			;
-		pos ligature f_h.liga
-			<anchor 160 0> mark @mark_bottom
-			<anchor 359 800> mark @mark_top
-			ligComponent
-			<anchor 605 0> mark @mark_bottom
-			<anchor 804 800> mark @mark_top
-			;
-		pos ligature f_i.liga
-			<anchor 93 0> mark @mark_bottom
-			<anchor 292 800> mark @mark_top
-			ligComponent
-			<anchor 403 0> mark @mark_bottom
-			<anchor 602 800> mark @mark_top
-			;
-		pos ligature f_j.liga
-			<anchor 99 0> mark @mark_bottom
-			<anchor 298 800> mark @mark_top
-			ligComponent
-			<anchor 421 0> mark @mark_bottom
-			<anchor 620 800> mark @mark_top
-			;
-		pos ligature f_k.liga
-			<anchor 170 0> mark @mark_bottom
-			<anchor 369 800> mark @mark_top
-			ligComponent
-			<anchor 635 0> mark @mark_bottom
-			<anchor 834 800> mark @mark_top
-			;
-		pos ligature f_l.liga
-			<anchor 96 0> mark @mark_bottom
-			<anchor 295 800> mark @mark_top
-			ligComponent
-			<anchor 411 0> mark @mark_bottom
-			<anchor 610 800> mark @mark_top
-			;
-	} mark_latn_mark2Liga;
-	lookupflag 0;
-### open feature 'mark' ###
-### close feature 'mark' ###";
-tag = mark;
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+";
+tag = ccmp;
 },
 {
-code = "### open feature 'mkmk' ###
-	lookup mkmk_DFLT_bottom {
-		lookupflag UseMarkFilteringSet @mark_bottom;
-		pos mark commaaccentcomb <anchor -32 -357> mark @mark_bottom;
-		pos mark cedillacomb <anchor 20 -263> mark @mark_bottom;
-	} mkmk_DFLT_bottom;
-	lookup mkmk_DFLT_top {
-		lookupflag UseMarkFilteringSet @mark_top;
-		pos mark dieresiscomb <anchor 327 732> mark @mark_top;
-		pos mark dotaccentcomb <anchor 232 732> mark @mark_top;
-		pos mark gravecomb <anchor 293 774> mark @mark_top;
-		pos mark acutecomb <anchor 269 774> mark @mark_top;
-		pos mark hungarumlautcomb <anchor 325 790> mark @mark_top;
-		pos mark circumflexcomb <anchor 320 760> mark @mark_top;
-		pos mark caroncomb <anchor 321 760> mark @mark_top;
-		pos mark brevecomb <anchor 333 760> mark @mark_top;
-		pos mark ringcomb <anchor 314 787> mark @mark_top;
-		pos mark tildecomb <anchor 337 711> mark @mark_top;
-		pos mark macroncomb <anchor 327 700> mark @mark_top;
-		pos mark commaturnedabovecomb <anchor 277 883> mark @mark_top;
-	} mkmk_DFLT_top;
-### close feature 'mkmk' ###";
-tag = mkmk;
+automatic = 1;
+code = "lookup locl_latn_0 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_0;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+";
+tag = lnum;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub zero by zero.lf;
+sub one by one.lf;
+sub two by two.lf;
+sub three by three.lf;
+sub four by four.lf;
+sub five by five.lf;
+sub six by six.lf;
+sub seven by seven.lf;
+sub eight by eight.lf;
+sub nine by nine.lf;
+sub zero.osf by zero.lf;
+sub one.osf by one.lf;
+sub two.osf by two.lf;
+sub three.osf by three.lf;
+sub four.osf by four.lf;
+sub five.osf by five.lf;
+sub six.osf by six.lf;
+sub seven.osf by seven.lf;
+sub eight.osf by eight.lf;
+sub nine.osf by nine.lf;
+";
+tag = case;
 }
 );
 fontMaster = (
@@ -403,17 +318,6 @@ isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
 weightClass = 700;
-},
-{
-axesValues = (
-800,
-1
-);
-instanceInterpolations = {
-"ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5" = 1;
-};
-name = "Heavy Italic";
-weightClass = 800;
 }
 );
 metrics = (

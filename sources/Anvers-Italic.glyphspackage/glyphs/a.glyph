@@ -143,7 +143,7 @@ hints = (
 {
 name = _corner.mitre;
 options = 2;
-place = (295, -2147483648);
+place = (295, 0);
 type = Corner;
 },
 {
