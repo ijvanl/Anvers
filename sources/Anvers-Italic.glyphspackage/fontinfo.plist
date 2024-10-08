@@ -167,7 +167,7 @@ axesValues = (
 guides = (
 {
 angle = 50;
-pos = (380,203);
+pos = (476,63);
 },
 {
 angle = 76;
