@@ -1,10 +1,14 @@
 {
 displayStrings = (
-n,
-"",
-"",
-nnnn,
-c,
-nnenn
+s,
+"ß",
+"œ",
+a,
+"æ",
+e,
+"f/f_i.liga",
+"/f_j.liga",
+"nnteadmhnn
+ootloo"
 );
 }
