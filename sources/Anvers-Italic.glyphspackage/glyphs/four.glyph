@@ -5,30 +5,10 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = four.osf;
+ref = four.lf;
 }
 );
-width = 544;
-},
-{
-layerId = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
-shapes = (
-{
-alignment = -1;
-ref = four.osf;
-}
-);
-width = 544;
-},
-{
-layerId = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
-shapes = (
-{
-alignment = -1;
-ref = four.osf;
-}
-);
-width = 544;
+width = 644;
 }
 );
 unicode = 52;

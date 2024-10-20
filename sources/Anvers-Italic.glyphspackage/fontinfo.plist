@@ -170,6 +170,40 @@ axesValues = (
 400,
 1
 );
+customParameters = (
+{
+name = typoAscender;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = winAscent;
+value = 1300;
+},
+{
+name = winDescent;
+value = 500;
+}
+);
 guides = (
 {
 angle = 50;
@@ -210,91 +244,6 @@ GSOffsetHorizontal = 5;
 GSOffsetPosition = 0;
 GSOffsetVertical = 5;
 };
-},
-{
-axesValues = (
-700,
-1
-);
-guides = (
-{
-angle = -40;
-pos = (489,665);
-},
-{
-angle = 76;
-pos = (125,240);
-}
-);
-iconName = SemiBold;
-id = "6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C";
-metricValues = (
-{
-over = 10;
-pos = 800;
-},
-{
-over = 10;
-pos = 760;
-},
-{
-over = 10;
-pos = 500;
-},
-{
-over = -10;
-},
-{
-over = -10;
-pos = -250;
-},
-{
-pos = 14;
-}
-);
-name = "Bold Italic";
-},
-{
-axesValues = (
-800,
-1
-);
-guides = (
-{
-angle = -40;
-pos = (489,665);
-},
-{
-angle = 76;
-pos = (125,240);
-}
-);
-id = "ABF9DA73-21AD-4AF2-B0FF-D1BE084ED1D5";
-metricValues = (
-{
-over = 10;
-pos = 800;
-},
-{
-over = 10;
-pos = 760;
-},
-{
-over = 10;
-pos = 500;
-},
-{
-over = -10;
-},
-{
-over = -10;
-pos = -250;
-},
-{
-pos = 14;
-}
-);
-name = "Heavy Italic";
 }
 );
 instances = (
@@ -309,20 +258,6 @@ m01 = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
-},
-{
-axesValues = (
-700,
-1
-);
-instanceInterpolations = {
-"6BC31736-8C9F-4B37-B5D4-AA29B85DBE0C" = 1;
-};
-isBold = 1;
-isItalic = 1;
-linkStyle = Regular;
-name = "Bold Italic";
-weightClass = 700;
 }
 );
 metrics = (
