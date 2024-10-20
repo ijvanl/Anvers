@@ -1,5 +1,7 @@
 {
 displayStrings = (
-snooping
+snooping,
+s,
+"ß"
 );
 }
