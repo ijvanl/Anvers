@@ -2,6 +2,28 @@
 glyphname = f_j.liga;
 layers = (
 {
+anchors = (
+{
+name = bottom_1;
+pos = (97,0);
+},
+{
+name = bottom_2;
+pos = (415,0);
+},
+{
+name = caret_1;
+pos = (318,0);
+},
+{
+name = top_1;
+pos = (296,800);
+},
+{
+name = top_2;
+pos = (614,800);
+}
+);
 background = {
 shapes = (
 {
