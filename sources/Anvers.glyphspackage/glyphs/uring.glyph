@@ -8,7 +8,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (126,20);
+pos = (126,0);
 ref = ringcomb;
 }
 );
