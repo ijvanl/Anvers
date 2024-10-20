@@ -162,18 +162,6 @@ value = "";
 }
 );
 tag = ss01;
-},
-{
-automatic = 1;
-code = "sub p by p.ss02;
-";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss02;
 }
 );
 fontMaster = (
