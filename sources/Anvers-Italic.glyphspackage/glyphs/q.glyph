@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (233,0);
+pos = (183,0);
 },
 {
 name = top;
-pos = (330,500);
+pos = (307,500);
 }
 );
 hints = (

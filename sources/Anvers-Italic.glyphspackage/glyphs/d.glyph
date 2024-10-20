@@ -2,6 +2,24 @@
 glyphname = d;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (208,0);
+},
+{
+name = center;
+pos = (270,250);
+},
+{
+name = top;
+pos = (407,800);
+},
+{
+name = topright;
+pos = (657,800);
+}
+);
 background = {
 hints = (
 {

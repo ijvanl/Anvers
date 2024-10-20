@@ -2,6 +2,16 @@
 glyphname = p.weird;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (177,0);
+},
+{
+name = top;
+pos = (301,500);
+}
+);
 layerId = m01;
 shapes = (
 {

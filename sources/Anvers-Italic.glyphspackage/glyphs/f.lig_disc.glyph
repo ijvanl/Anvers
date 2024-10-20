@@ -2,6 +2,16 @@
 glyphname = f.lig_disc;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (107,0);
+},
+{
+name = top;
+pos = (306,800);
+}
+);
 background = {
 shapes = (
 {
