@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (283,0);
+pos = (337,-9);
 },
 {
 name = top;
@@ -56,7 +56,7 @@ shapes = (
 closed = 1;
 nodes = (
 (634,555,o),
-(671,558,o),
+(673,558,o),
 (672,570,cs),
 (665,730,l),
 (438,845,o),

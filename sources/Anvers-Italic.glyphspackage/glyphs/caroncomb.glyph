@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (241,500);
+pos = (258,500);
 },
 {
 name = top;
-pos = (304,751);
+pos = (316,731);
 }
 );
 background = {
@@ -38,7 +38,7 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (572,1343);
+pos = (572,1313);
 ref = circumflexcomb;
 }
 );

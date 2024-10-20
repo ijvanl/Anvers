@@ -9,11 +9,11 @@ pos = (310,0);
 },
 {
 name = ogonek;
-pos = (610,10);
+pos = (657,-1);
 },
 {
 name = top;
-pos = (499,760);
+pos = (559,770);
 }
 );
 background = {

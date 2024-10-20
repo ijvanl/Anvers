@@ -5,11 +5,11 @@ layers = (
 anchors = (
 {
 name = _bottom;
-pos = (57,0);
+pos = (51,0);
 },
 {
 name = bottom;
-pos = (-32,-357);
+pos = (-34,-341);
 }
 );
 layerId = m01;
@@ -17,9 +17,10 @@ shapes = (
 {
 pos = (-58,-190);
 ref = comma;
+scale = (0.9,0.9);
 }
 );
-width = 239;
+width = 226;
 }
 );
 unicode = 806;

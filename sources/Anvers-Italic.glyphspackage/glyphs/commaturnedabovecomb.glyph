@@ -5,22 +5,23 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (182,500);
+pos = (175,500);
 },
 {
 name = top;
-pos = (277,883);
+pos = (264,857);
 }
 );
 layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (303,716);
+pos = (288,706);
 ref = comma;
+scale = (0.9,0.9);
 }
 );
-width = 239;
+width = 226;
 }
 );
 unicode = 786;

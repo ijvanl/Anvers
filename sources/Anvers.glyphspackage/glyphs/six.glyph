@@ -5,19 +5,19 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = six.osf;
+ref = six.lf;
 }
 );
-width = 580;
+width = 600;
 },
 {
 layerId = m002;
 shapes = (
 {
-ref = six.osf;
+ref = six.lf;
 }
 );
-width = 592;
+width = 640;
 }
 );
 unicode = 54;

@@ -9,7 +9,7 @@ pos = (119,-250);
 },
 {
 name = top;
-pos = (306,500);
+pos = (276,500);
 }
 );
 background = {

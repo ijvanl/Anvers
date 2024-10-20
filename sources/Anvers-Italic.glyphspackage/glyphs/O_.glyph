@@ -13,11 +13,11 @@ pos = (439,380);
 },
 {
 name = ogonek;
-pos = (673,10);
+pos = (337,-9);
 },
 {
 name = top;
-pos = (534,760);
+pos = (494,760);
 },
 {
 name = topleft;
