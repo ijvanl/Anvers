@@ -14,6 +14,20 @@ ref = quoteright;
 }
 );
 width = 420;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (356,0);
+ref = quoteright;
+},
+{
+pos = (166,0);
+ref = quoteright;
+}
+);
+width = 420;
 }
 );
 unicode = 8221;

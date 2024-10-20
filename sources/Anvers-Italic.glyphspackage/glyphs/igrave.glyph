@@ -13,6 +13,19 @@ ref = gravecomb;
 }
 );
 width = 306;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-103,0);
+ref = gravecomb;
+}
+);
+width = 306;
 }
 );
 unicode = 236;

@@ -15,6 +15,21 @@ ref = a;
 }
 );
 width = 519;
+},
+{
+anchors = (
+{
+name = top;
+pos = (236,500);
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = a;
+}
+);
+width = 519;
 }
 );
 unicode = 945;

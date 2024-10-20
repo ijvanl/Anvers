@@ -38,6 +38,44 @@ ref = N;
 }
 );
 width = 1369;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (342,0);
+},
+{
+name = top;
+pos = (531,760);
+}
+);
+layerId = m002;
+shapes = (
+{
+alignment = -1;
+pos = (750,150);
+ref = zero.osf;
+},
+{
+closed = 1;
+nodes = (
+(752,80,o),
+(752,20,o),
+(767,20,c),
+(1227,20,l),
+(1242,20,o),
+(1242,80,o),
+(1227,80,c),
+(987,60,l),
+(767,80,l)
+);
+},
+{
+ref = N;
+}
+);
+width = 1369;
 }
 );
 metricRight = "=zero";

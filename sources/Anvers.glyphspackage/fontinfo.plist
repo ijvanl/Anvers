@@ -252,6 +252,8 @@ over = -10;
 {
 over = -10;
 pos = -250;
+},
+{
 }
 );
 name = Regular;
@@ -331,6 +333,8 @@ over = -10;
 {
 over = -10;
 pos = -250;
+},
+{
 }
 );
 name = Heavy;
@@ -395,6 +399,9 @@ type = baseline;
 },
 {
 type = descender;
+},
+{
+type = "italic angle";
 }
 );
 properties = (

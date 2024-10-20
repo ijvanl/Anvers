@@ -238,7 +238,88 @@ pos = -250;
 pos = 14;
 }
 );
-name = Italic;
+name = Regular;
+userData = {
+GSOffsetHorizontal = 5;
+GSOffsetPosition = 0;
+GSOffsetVertical = 5;
+};
+},
+{
+axesValues = (
+800,
+1
+);
+customParameters = (
+{
+name = typoAscender;
+value = 1200;
+},
+{
+name = hheaAscender;
+value = 1200;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoDescender;
+value = -350;
+},
+{
+name = hheaDescender;
+value = -350;
+},
+{
+name = winAscent;
+value = 1300;
+},
+{
+name = winDescent;
+value = 500;
+}
+);
+guides = (
+{
+angle = 50;
+pos = (476,63);
+},
+{
+pos = (234,333);
+}
+);
+iconName = Bold;
+id = m002;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 760;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -250;
+},
+{
+pos = 14;
+}
+);
+name = Heavy;
 userData = {
 GSOffsetHorizontal = 5;
 GSOffsetPosition = 0;

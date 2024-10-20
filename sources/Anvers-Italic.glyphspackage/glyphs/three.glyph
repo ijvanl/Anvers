@@ -9,6 +9,15 @@ ref = three.lf;
 }
 );
 width = 498;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = three.lf;
+}
+);
+width = 498;
 }
 );
 unicode = 51;

@@ -1,3 +1,4 @@
+buildOTF: false
 sources:
   - Anvers.glyphspackage
   - Anvers-Italic.glyphspackage
@@ -31,6 +32,12 @@ stat:
     values:
     - name: Regular
       value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Semibold
+      value: 550
+    - name: Bold
+      value: 700
   - name: Italic
     tag: ital
     values:
