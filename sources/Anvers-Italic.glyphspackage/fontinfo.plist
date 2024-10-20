@@ -89,12 +89,6 @@ sub f l by f_l.liga;
 tag = liga;
 },
 {
-code = "### open feature 'ss01' ###
-sub Q by Q.ss01;
-### close feature 'ss01' ###";
-tag = ss01;
-},
-{
 automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
@@ -156,6 +150,30 @@ sub eight.osf by eight.lf;
 sub nine.osf by nine.lf;
 ";
 tag = case;
+},
+{
+code = "### open feature 'ss01' ###
+sub Q by Q.ss01;
+### close feature 'ss01' ###";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub p by p.ss02;
+";
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss02;
 }
 );
 fontMaster = (
@@ -171,7 +189,7 @@ pos = (476,63);
 },
 {
 angle = 76;
-pos = (125,240);
+pos = (58,181);
 },
 {
 pos = (234,333);
@@ -347,6 +365,13 @@ unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
 m002 = {
+};
+m01 = {
+nV = "80";
+nd = "35";
+oH = "40";
+oV = "90";
+tH = "40";
 };
 };
 UFO.lib = {

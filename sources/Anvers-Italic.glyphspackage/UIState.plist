@@ -1,14 +1,22 @@
 {
 displayStrings = (
-s,
-"ß",
-"œ",
-a,
-"æ",
-e,
-"f/f_i.liga",
+c,
+"/f_b.liga",
+"f/f.lig_comp l",
+"/f.lig_disc/f_i.liga",
+"f/f.lig_disc i",
+"ı",
+"",
 "/f_j.liga",
-"nnteadmhnn
-ootloo"
+f,
+"/f.lig_disc/f_i.liga",
+"",
+"/f.lig_disc",
+p,
+bfind,
+e,
+fars,
+nnlknn,
+n
 );
 }

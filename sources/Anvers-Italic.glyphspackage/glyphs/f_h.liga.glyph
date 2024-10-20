@@ -34,7 +34,7 @@ pos = (320,0);
 ref = h;
 }
 );
-width = 888;
+width = 878;
 },
 {
 anchors = (

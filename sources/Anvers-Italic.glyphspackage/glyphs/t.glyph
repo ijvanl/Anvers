@@ -24,7 +24,7 @@ background = {
 hints = (
 {
 name = _corner.mitre;
-place = (-101, -2147483648);
+place = (-101, 0);
 type = Corner;
 }
 );
