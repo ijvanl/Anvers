@@ -79,24 +79,28 @@ nodes = (
 hints = (
 {
 name = _corner.mitre;
+options = 2;
 origin = (0,14);
 scale = (-1,-1);
 type = Corner;
 },
 {
 name = _corner.mitre;
+options = 2;
 origin = (0,36);
 scale = (-1,-1);
 type = Corner;
 },
 {
 name = _corner.mitre;
+options = 2;
 origin = (1,22);
 scale = (-1,-1);
 type = Corner;
 },
 {
 name = _corner.mitre;
+options = 2;
 origin = (1,36);
 scale = (-1,-1);
 type = Corner;

@@ -3,13 +3,24 @@ export = 0;
 glyphname = _corner.mitre;
 layers = (
 {
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 0;
 nodes = (
 (10,-10,l),
 (-10,10,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,0,l),
+(0,10,l)
 );
 }
 );

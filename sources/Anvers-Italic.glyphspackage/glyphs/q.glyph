@@ -15,6 +15,7 @@ pos = (307,500);
 hints = (
 {
 name = _corner.mitre;
+options = 2;
 origin = (0,27);
 type = Corner;
 }

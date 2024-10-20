@@ -88,6 +88,7 @@ nodes = (
 hints = (
 {
 name = _corner.mitre;
+options = 2;
 origin = (0,31);
 type = Corner;
 }
