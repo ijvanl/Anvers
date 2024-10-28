@@ -9,6 +9,7 @@ displayStrings = (
 z,
 u,
 A,
-"§"
+"§",
+""
 );
 }

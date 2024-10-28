@@ -1,27 +1,27 @@
 {
-glyphname = f_k.liga;
+glyphname = f_h.rlig;
 layers = (
 {
 anchors = (
 {
 name = bottom_1;
-pos = (232,0);
+pos = (247,0);
 },
 {
 name = bottom_2;
-pos = (697,0);
+pos = (740,0);
 },
 {
 name = caret_1;
-pos = (464.5,0);
+pos = (493,0);
 },
 {
 name = top_1;
-pos = (232,800);
+pos = (247,800);
 },
 {
 name = top_2;
-pos = (697,800);
+pos = (740,800);
 }
 );
 layerId = m01;
@@ -31,32 +31,32 @@ ref = f.lig_comp;
 },
 {
 pos = (358,0);
-ref = k;
+ref = h;
 }
 );
-width = 929;
+width = 986;
 },
 {
 anchors = (
 {
 name = bottom_1;
-pos = (232,0);
+pos = (247,0);
 },
 {
 name = bottom_2;
-pos = (695,0);
+pos = (740,0);
 },
 {
 name = caret_1;
-pos = (463,0);
+pos = (493,0);
 },
 {
 name = top_1;
-pos = (232,800);
+pos = (247,800);
 },
 {
 name = top_2;
-pos = (695,800);
+pos = (740,800);
 }
 );
 layerId = m002;
@@ -66,10 +66,10 @@ ref = f.lig_comp;
 },
 {
 pos = (358,0);
-ref = k;
+ref = h;
 }
 );
-width = 926;
+width = 986;
 }
 );
 }
