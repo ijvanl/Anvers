@@ -8,11 +8,11 @@ shapes = (
 ref = o;
 },
 {
-pos = (51,0);
+pos = (83,0);
 ref = hungarumlautcomb;
 }
 );
-width = 443;
+width = 486;
 }
 );
 unicode = 337;

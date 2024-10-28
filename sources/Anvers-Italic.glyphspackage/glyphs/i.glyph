@@ -1,4 +1,5 @@
 {
+color = 4;
 glyphname = i;
 layers = (
 {
@@ -73,7 +74,7 @@ shapes = (
 ref = idotaccent;
 }
 );
-width = 306;
+width = 310;
 }
 );
 unicode = 105;

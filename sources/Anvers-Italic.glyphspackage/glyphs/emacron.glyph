@@ -8,11 +8,11 @@ shapes = (
 ref = e;
 },
 {
-pos = (16,0);
+pos = (56,0);
 ref = macroncomb;
 }
 );
-width = 379;
+width = 449;
 }
 );
 unicode = 275;
