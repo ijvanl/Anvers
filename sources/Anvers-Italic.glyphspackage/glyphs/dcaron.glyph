@@ -13,19 +13,6 @@ ref = caroncomb.alt;
 }
 );
 width = 540;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = d;
-},
-{
-pos = (449,0);
-ref = caroncomb.alt;
-}
-);
-width = 540;
 }
 );
 unicode = 271;

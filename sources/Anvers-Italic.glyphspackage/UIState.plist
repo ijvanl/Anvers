@@ -4,6 +4,8 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
 "2",
 S$c,
 "¢",
-"|"
+"|",
+"/a.roman a",
+a
 );
 }

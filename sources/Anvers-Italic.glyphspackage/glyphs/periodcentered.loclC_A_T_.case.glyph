@@ -9,15 +9,6 @@ ref = periodcentered;
 }
 );
 width = 303;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = periodcentered;
-}
-);
-width = 303;
 }
 );
 metricRight = "=periodcentered";

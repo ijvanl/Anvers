@@ -14,20 +14,6 @@ ref = macroncomb;
 }
 );
 width = 306;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = idotless;
-},
-{
-alignment = -1;
-pos = (-79,0);
-ref = macroncomb;
-}
-);
-width = 306;
 }
 );
 unicode = 299;

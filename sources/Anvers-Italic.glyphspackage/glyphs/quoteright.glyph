@@ -10,16 +10,6 @@ ref = comma;
 }
 );
 width = 230;
-},
-{
-layerId = m002;
-shapes = (
-{
-pos = (136,665);
-ref = comma;
-}
-);
-width = 230;
 }
 );
 unicode = 8217;

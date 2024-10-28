@@ -8,20 +8,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (238,260);
-ref = dieresiscomb;
-}
-);
-width = 706;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = Y;
-},
-{
-pos = (238,260);
+pos = (198,260);
 ref = dieresiscomb;
 }
 );

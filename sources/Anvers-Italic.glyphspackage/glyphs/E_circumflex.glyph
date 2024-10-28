@@ -8,20 +8,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (138,260);
-ref = circumflexcomb;
-}
-);
-width = 662;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = E;
-},
-{
-pos = (138,260);
+pos = (98,260);
 ref = circumflexcomb;
 }
 );

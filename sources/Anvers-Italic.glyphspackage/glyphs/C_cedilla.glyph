@@ -13,19 +13,6 @@ ref = cedillacomb;
 }
 );
 width = 689;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = C;
-},
-{
-pos = (276,-9);
-ref = cedillacomb;
-}
-);
-width = 689;
 }
 );
 unicode = 199;

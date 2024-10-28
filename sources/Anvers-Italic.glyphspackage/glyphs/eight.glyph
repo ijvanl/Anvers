@@ -9,15 +9,6 @@ ref = eight.lf;
 }
 );
 width = 500;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = eight.lf;
-}
-);
-width = 500;
 }
 );
 unicode = 56;

@@ -8,20 +8,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (74,260);
-ref = dotaccentcomb;
-}
-);
-width = 321;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = I;
-},
-{
-pos = (74,260);
+pos = (34,260);
 ref = dotaccentcomb;
 }
 );

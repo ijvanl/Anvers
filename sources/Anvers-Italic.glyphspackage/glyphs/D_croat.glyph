@@ -9,15 +9,6 @@ ref = Eth;
 }
 );
 width = 743;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = Eth;
-}
-);
-width = 743;
 }
 );
 unicode = 272;

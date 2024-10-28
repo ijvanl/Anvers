@@ -8,20 +8,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (261,260);
-ref = hungarumlautcomb;
-}
-);
-width = 814;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = O;
-},
-{
-pos = (261,260);
+pos = (221,260);
 ref = hungarumlautcomb;
 }
 );

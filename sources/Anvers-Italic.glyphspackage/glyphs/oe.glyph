@@ -24,30 +24,6 @@ ref = e;
 }
 );
 width = 672;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (274,0);
-},
-{
-name = top;
-pos = (398,500);
-}
-);
-layerId = m002;
-shapes = (
-{
-ref = o;
-},
-{
-alignment = -1;
-pos = (293,0);
-ref = e;
-}
-);
-width = 672;
 }
 );
 metricLeft = "=o";

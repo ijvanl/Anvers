@@ -8,20 +8,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (291,0);
-ref = commaaccentcomb;
-}
-);
-width = 808;
-},
-{
-layerId = m002;
-shapes = (
-{
-ref = N;
-},
-{
-pos = (291,0);
+pos = (290,0);
 ref = commaaccentcomb;
 }
 );

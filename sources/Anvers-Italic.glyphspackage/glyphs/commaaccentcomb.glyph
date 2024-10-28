@@ -21,27 +21,6 @@ scale = (0.9,0.9);
 }
 );
 width = 226;
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (51,0);
-},
-{
-name = bottom;
-pos = (-34,-341);
-}
-);
-layerId = m002;
-shapes = (
-{
-pos = (-58,-190);
-ref = comma;
-scale = (0.9,0.9);
-}
-);
-width = 226;
 }
 );
 unicode = 806;

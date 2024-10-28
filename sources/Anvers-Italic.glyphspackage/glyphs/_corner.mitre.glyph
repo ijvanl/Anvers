@@ -25,30 +25,6 @@ nodes = (
 }
 );
 width = 600;
-},
-{
-background = {
-shapes = (
-{
-closed = 0;
-nodes = (
-(10,-10,l),
-(-10,10,l)
-);
-}
-);
-};
-layerId = m002;
-shapes = (
-{
-closed = 0;
-nodes = (
-(10,0,l),
-(0,10,l)
-);
-}
-);
-width = 600;
 }
 );
 }
