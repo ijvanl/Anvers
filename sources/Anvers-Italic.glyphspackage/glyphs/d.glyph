@@ -47,7 +47,7 @@ type = Corner;
 },
 {
 name = _corner.mitre;
-place = (340, -2147483648);
+place = (340, 0);
 type = Corner;
 }
 );

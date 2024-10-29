@@ -27,7 +27,7 @@ type = Corner;
 },
 {
 name = _corner.mitre;
-place = (147, -2147483648);
+place = (147, 0);
 type = Corner;
 }
 );

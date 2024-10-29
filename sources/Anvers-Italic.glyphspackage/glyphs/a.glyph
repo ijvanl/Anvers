@@ -59,26 +59,26 @@ type = Corner;
 },
 {
 name = _corner.mitre;
-place = (328, -2147483648);
+place = (328, 0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (328, -2147483648);
+place = (328, 0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (337, -2147483648);
+place = (337, 0);
 scale = (1.1,1);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (337, -2147483648);
+place = (337, 0);
 scale = (1.1,1);
 type = Corner;
 },

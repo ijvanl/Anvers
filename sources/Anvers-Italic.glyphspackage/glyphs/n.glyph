@@ -32,13 +32,13 @@ type = Corner;
 },
 {
 name = _corner.mitre;
-place = (200, -2147483648);
+place = (200, 0);
 type = Corner;
 },
 {
 name = _corner.mitre;
 options = 2;
-place = (215, -2147483648);
+place = (215, 0);
 type = Corner;
 },
 {
